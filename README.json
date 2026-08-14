@@ -174,7 +174,7 @@
             "last_commit": "2020-03-25T08:58:19Z",
             "owner": "V8tr",
             "repo": "ModernMVVM",
-            "stars": 473
+            "stars": 470
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2024-04-22T14:51:58Z",
             "owner": "ReSwift",
             "repo": "ReSwift",
-            "stars": 7594
+            "stars": 7593
           }
         },
         {
@@ -692,7 +692,7 @@
             "last_commit": "2025-10-10T23:18:47Z",
             "owner": "johnpatrickmorgan",
             "repo": "FlowStacks",
-            "stars": 971
+            "stars": 969
           }
         },
         {
@@ -740,7 +740,7 @@
             "last_commit": "2026-05-29T00:21:28Z",
             "owner": "Instagram",
             "repo": "IGListKit",
-            "stars": 13072
+            "stars": 13071
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2022-05-31T16:50:09Z",
             "owner": "Jasonette",
             "repo": "JASONETTE-iOS",
-            "stars": 5227
+            "stars": 5226
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2019-04-30T18:06:54Z",
             "owner": "malcommac",
             "repo": "FlowKit",
-            "stars": 208
+            "stars": 207
           }
         },
         {
@@ -1138,7 +1138,7 @@
             "last_commit": "2026-07-15T22:14:43Z",
             "owner": "uber",
             "repo": "RIBs",
-            "stars": 7930
+            "stars": 7931
           }
         },
         {
@@ -1149,7 +1149,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:02:18Z",
+            "last_commit": "2026-08-14T17:40:58Z",
             "owner": "artsy",
             "repo": "eigen",
             "stars": 3775
@@ -1343,7 +1343,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T20:47:57Z",
+            "last_commit": "2026-08-14T13:20:36Z",
             "owner": "ReactiveX",
             "repo": "RxSwift",
             "stars": 24647
@@ -1481,10 +1481,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T23:11:01Z",
+            "last_commit": "2026-08-14T22:08:00Z",
             "owner": "stripe",
             "repo": "stripe-ios",
-            "stars": 2561
+            "stars": 2563
           }
         },
         {
@@ -1539,7 +1539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:25:17.045Z",
+    "last_updated": "2026-08-14T23:00:41.908Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
     "enhanced_repository": "enhansome/enhansome-ios-architecture",
