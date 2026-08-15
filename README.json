@@ -318,7 +318,7 @@
             "last_commit": "2024-04-22T14:51:58Z",
             "owner": "ReSwift",
             "repo": "ReSwift",
-            "stars": 7593
+            "stars": 7592
           }
         },
         {
@@ -964,7 +964,7 @@
             "last_commit": "2025-08-07T14:57:28Z",
             "owner": "Shopify",
             "repo": "FunctionalTableData",
-            "stars": 371
+            "stars": 370
           }
         },
         {
@@ -1149,10 +1149,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:40:58Z",
+            "last_commit": "2026-08-15T05:13:17Z",
             "owner": "artsy",
             "repo": "eigen",
-            "stars": 3775
+            "stars": 3776
           }
         },
         {
@@ -1343,10 +1343,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-14T13:20:36Z",
+            "last_commit": "2026-08-15T09:20:08Z",
             "owner": "ReactiveX",
             "repo": "RxSwift",
-            "stars": 24647
+            "stars": 24646
           }
         },
         {
@@ -1481,10 +1481,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-14T22:08:00Z",
+            "last_commit": "2026-08-15T18:58:57Z",
             "owner": "stripe",
             "repo": "stripe-ios",
-            "stars": 2563
+            "stars": 2562
           }
         },
         {
@@ -1539,7 +1539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:00:41.908Z",
+    "last_updated": "2026-08-15T22:59:01.212Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
     "enhanced_repository": "enhansome/enhansome-ios-architecture",
