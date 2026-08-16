@@ -796,7 +796,7 @@
             "last_commit": "2018-11-06T10:34:05Z",
             "owner": "spotify",
             "repo": "HubFramework",
-            "stars": 1891
+            "stars": 1889
           }
         },
         {
@@ -1149,7 +1149,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T05:13:17Z",
+            "last_commit": "2026-08-16T05:14:27Z",
             "owner": "artsy",
             "repo": "eigen",
             "stars": 3776
@@ -1346,7 +1346,7 @@
             "last_commit": "2026-08-15T09:20:08Z",
             "owner": "ReactiveX",
             "repo": "RxSwift",
-            "stars": 24646
+            "stars": 24647
           }
         },
         {
@@ -1539,7 +1539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:59:01.212Z",
+    "last_updated": "2026-08-16T22:58:34.154Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
     "enhanced_repository": "enhansome/enhansome-ios-architecture",
