@@ -132,7 +132,7 @@
             "last_commit": "2026-05-07T13:17:41Z",
             "owner": "ReactorKit",
             "repo": "ReactorKit",
-            "stars": 2789
+            "stars": 2788
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2024-04-22T14:51:58Z",
             "owner": "ReSwift",
             "repo": "ReSwift",
-            "stars": 7592
+            "stars": 7593
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-05-07T13:17:41Z",
             "owner": "ReactorKit",
             "repo": "ReactorKit",
-            "stars": 2789
+            "stars": 2788
           }
         },
         {
@@ -740,7 +740,7 @@
             "last_commit": "2026-05-29T00:21:28Z",
             "owner": "Instagram",
             "repo": "IGListKit",
-            "stars": 13071
+            "stars": 13070
           }
         },
         {
@@ -754,7 +754,7 @@
             "last_commit": "2024-01-16T14:37:39Z",
             "owner": "facebook",
             "repo": "componentkit",
-            "stars": 5756
+            "stars": 5755
           }
         },
         {
@@ -1048,7 +1048,7 @@
             "last_commit": "2025-08-27T09:49:58Z",
             "owner": "sncf-connect-tech",
             "repo": "Collor",
-            "stars": 185
+            "stars": 184
           }
         },
         {
@@ -1149,7 +1149,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T05:14:27Z",
+            "last_commit": "2026-08-17T19:32:25Z",
             "owner": "artsy",
             "repo": "eigen",
             "stars": 3776
@@ -1166,7 +1166,7 @@
             "last_commit": "2026-02-15T16:15:53Z",
             "owner": "khoren93",
             "repo": "SwiftHub",
-            "stars": 3118
+            "stars": 3117
           }
         },
         {
@@ -1270,7 +1270,7 @@
             "last_commit": "2025-08-30T17:31:03Z",
             "owner": "hyperoslo",
             "repo": "Cache",
-            "stars": 3143
+            "stars": 3142
           }
         },
         {
@@ -1346,7 +1346,7 @@
             "last_commit": "2026-08-15T09:20:08Z",
             "owner": "ReactiveX",
             "repo": "RxSwift",
-            "stars": 24647
+            "stars": 24645
           }
         },
         {
@@ -1481,10 +1481,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-15T18:58:57Z",
+            "last_commit": "2026-08-17T22:49:58Z",
             "owner": "stripe",
             "repo": "stripe-ios",
-            "stars": 2562
+            "stars": 2564
           }
         },
         {
@@ -1539,7 +1539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:58:34.154Z",
+    "last_updated": "2026-08-17T23:01:05.208Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
     "enhanced_repository": "enhansome/enhansome-ios-architecture",
