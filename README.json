@@ -393,7 +393,7 @@
                 "last_commit": "2022-11-08T10:17:51Z",
                 "owner": "BendingSpoons",
                 "repo": "katana-swift",
-                "stars": 2234
+                "stars": 2233
               }
             },
             {
@@ -453,7 +453,7 @@
                 "last_commit": "2023-04-03T16:02:24Z",
                 "owner": "BendingSpoons",
                 "repo": "tempura-swift",
-                "stars": 714
+                "stars": 713
               }
             },
             {
@@ -1262,7 +1262,7 @@
                 "last_commit": "2026-07-15T22:14:43Z",
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7932
+                "stars": 7933
               }
             },
             {
@@ -1274,7 +1274,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:10:41Z",
+                "last_commit": "2026-08-19T20:20:34Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -1632,10 +1632,10 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-19T03:46:01Z",
+                "last_commit": "2026-08-19T22:56:51Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2564
+                "stars": 2565
               }
             },
             {
@@ -1693,7 +1693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:39.978Z",
+    "last_updated": "2026-08-19T23:02:19.051Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_id": 49082519,
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
