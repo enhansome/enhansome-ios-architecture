@@ -150,7 +150,7 @@
                 "last_commit": "2026-05-07T13:17:41Z",
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2788
+                "stars": 2787
               }
             },
             {
@@ -363,7 +363,7 @@
                 "last_commit": "2024-04-22T14:51:58Z",
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7593
+                "stars": 7592
               }
             },
             {
@@ -378,7 +378,7 @@
                 "last_commit": "2026-05-07T13:17:41Z",
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2788
+                "stars": 2787
               }
             },
             {
@@ -826,10 +826,10 @@
                 "archived": false,
                 "id": 67588512,
                 "language": "Objective-C",
-                "last_commit": "2026-05-29T00:21:28Z",
+                "last_commit": "2026-08-19T23:51:03Z",
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13070
+                "stars": 13069
               }
             },
             {
@@ -1274,7 +1274,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T20:20:34Z",
+                "last_commit": "2026-08-20T16:43:18Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -1486,7 +1486,7 @@
                 "last_commit": "2026-08-15T09:20:08Z",
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24643
+                "stars": 24646
               }
             },
             {
@@ -1583,7 +1583,7 @@
                 "last_commit": "2026-02-25T18:09:27Z",
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 702
+                "stars": 701
               }
             },
             {
@@ -1598,7 +1598,7 @@
                 "last_commit": "2026-02-25T18:09:27Z",
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 702
+                "stars": 701
               }
             },
             {
@@ -1632,10 +1632,10 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-19T22:56:51Z",
+                "last_commit": "2026-08-20T22:57:54Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2565
+                "stars": 2563
               }
             },
             {
@@ -1693,7 +1693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:02:19.051Z",
+    "last_updated": "2026-08-20T23:03:28.654Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_id": 49082519,
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
