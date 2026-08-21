@@ -311,7 +311,7 @@
                 "last_commit": "2019-12-13T14:45:11Z",
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2149
+                "stars": 2150
               }
             },
             {
@@ -408,7 +408,7 @@
                 "last_commit": "2019-12-13T14:45:11Z",
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2149
+                "stars": 2150
               }
             },
             {
@@ -1274,7 +1274,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:43:18Z",
+                "last_commit": "2026-08-21T19:08:31Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -1486,7 +1486,7 @@
                 "last_commit": "2026-08-15T09:20:08Z",
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24646
+                "stars": 24645
               }
             },
             {
@@ -1516,7 +1516,7 @@
                 "last_commit": "2019-10-14T18:27:27Z",
                 "owner": "DeclarativeHub",
                 "repo": "TheBinderArchitecture",
-                "stars": 154
+                "stars": 153
               }
             }
           ],
@@ -1632,7 +1632,7 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-20T22:57:54Z",
+                "last_commit": "2026-08-21T22:53:44Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2563
@@ -1693,7 +1693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:03:28.654Z",
+    "last_updated": "2026-08-21T23:01:49.108Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_id": 49082519,
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
