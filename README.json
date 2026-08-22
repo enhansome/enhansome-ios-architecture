@@ -238,7 +238,7 @@
                 "last_commit": "2025-02-12T17:51:06Z",
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4103
+                "stars": 4102
               }
             },
             {
@@ -1274,7 +1274,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T19:08:31Z",
+                "last_commit": "2026-08-22T14:36:40Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -1486,7 +1486,7 @@
                 "last_commit": "2026-08-15T09:20:08Z",
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24645
+                "stars": 24646
               }
             },
             {
@@ -1632,7 +1632,7 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-21T22:53:44Z",
+                "last_commit": "2026-08-22T22:10:16Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2563
@@ -1693,7 +1693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:01:49.108Z",
+    "last_updated": "2026-08-22T22:59:36.775Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_id": 49082519,
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
