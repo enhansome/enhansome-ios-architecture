@@ -253,7 +253,7 @@
                 "last_commit": "2021-10-05T04:06:37Z",
                 "owner": "Clean-Swift",
                 "repo": "CleanStore",
-                "stars": 1923
+                "stars": 1922
               }
             },
             {
@@ -363,7 +363,7 @@
                 "last_commit": "2024-04-22T14:51:58Z",
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7592
+                "stars": 7591
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-19T23:51:03Z",
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13069
+                "stars": 13067
               }
             },
             {
@@ -874,7 +874,7 @@
                 "last_commit": "2021-08-11T19:43:45Z",
                 "owner": "marlimox",
                 "repo": "AloeStackView",
-                "stars": 2817
+                "stars": 2816
               }
             },
             {
@@ -1274,7 +1274,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T14:36:40Z",
+                "last_commit": "2026-08-23T05:15:39Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -1693,7 +1693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:59:36.775Z",
+    "last_updated": "2026-08-23T22:59:11.101Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_id": 49082519,
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
