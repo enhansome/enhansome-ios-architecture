@@ -140,6 +140,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Reddit-MVVM-Benchmark",
+              "description": "MVVM with FRP Benchmark project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52982371,
+                "language": "Swift",
+                "last_commit": "2017-08-16T01:03:42Z",
+                "owner": "ivanbruel",
+                "repo": "SwipeIt",
+                "stars": 439
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Posts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "TheReactiveArchitecture",
               "description": "The modern and reactive architecture for RxSwift application",
               "children": [],
@@ -150,7 +172,7 @@
                 "last_commit": "2026-05-07T13:17:41Z",
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2787
+                "stars": 2788
               }
             },
             {
@@ -363,7 +385,7 @@
                 "last_commit": "2024-04-22T14:51:58Z",
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7591
+                "stars": 7590
               }
             },
             {
@@ -378,7 +400,7 @@
                 "last_commit": "2026-05-07T13:17:41Z",
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2787
+                "stars": 2788
               }
             },
             {
@@ -819,6 +841,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AdvancedCollectionView",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 21720877,
+                "language": "Objective-C",
+                "last_commit": "2016-03-19T04:39:31Z",
+                "owner": "zwaldowski",
+                "repo": "AdvancedCollectionView",
+                "stars": 179
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Posts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "IGListKit",
               "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
               "children": [],
@@ -1252,6 +1296,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "UITableViewCell and Model",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89517490,
+                "language": null,
+                "last_commit": "2026-02-25T18:09:27Z",
+                "owner": "onmyway133",
+                "repo": "blog",
+                "stars": 701
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "View and Model"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "RIBs",
               "description": "Uber's cross-platform mobile architecture framework.",
               "children": [],
@@ -1274,7 +1340,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T05:15:39Z",
+                "last_commit": "2026-08-24T13:51:40Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -1449,7 +1515,7 @@
                 "last_commit": "2020-01-16T18:02:15Z",
                 "owner": "plivesey",
                 "repo": "RocketData",
-                "stars": 647
+                "stars": 648
               }
             },
             {
@@ -1632,7 +1698,7 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-22T22:10:16Z",
+                "last_commit": "2026-08-24T02:34:26Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2563
@@ -1687,13 +1753,35 @@
           "description": null,
           "node_type": "group",
           "title": "SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Splash",
+              "description": "A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145689632,
+                "language": "Swift",
+                "last_commit": "2024-05-27T11:18:15Z",
+                "owner": "JohnSundell",
+                "repo": "Splash",
+                "stars": 1870
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code"
         }
       ],
       "title": "Best Practices"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:59:11.101Z",
+    "last_updated": "2026-08-24T13:57:17.746Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_id": 49082519,
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
