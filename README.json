@@ -873,7 +873,7 @@
                 "last_commit": "2026-08-19T23:51:03Z",
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13067
+                "stars": 13068
               }
             },
             {
@@ -1340,7 +1340,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:00:36Z",
+                "last_commit": "2026-08-25T05:19:14Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -1698,7 +1698,7 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-24T22:59:24Z",
+                "last_commit": "2026-08-25T04:49:04Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2563
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:02:26.689Z",
+    "last_updated": "2026-08-25T05:47:41.143Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_id": 49082519,
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
