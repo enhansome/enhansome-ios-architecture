@@ -1340,7 +1340,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:19:14Z",
+                "last_commit": "2026-08-25T20:18:02Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -1698,10 +1698,10 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-25T04:49:04Z",
+                "last_commit": "2026-08-25T22:58:50Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2563
+                "stars": 2564
               }
             },
             {
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:47:41.143Z",
+    "last_updated": "2026-08-25T23:03:49.570Z",
     "original_repository": "onmyway133/awesome-ios-architecture",
     "original_repository_id": 49082519,
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
