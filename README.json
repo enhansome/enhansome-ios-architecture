@@ -888,7 +888,7 @@
                 "last_commit": "2024-01-16T14:37:39Z",
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5755
+                "stars": 5756
               }
             },
             {
@@ -1340,7 +1340,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T20:21:07Z",
+                "last_commit": "2026-08-27T10:17:17Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -1552,7 +1552,7 @@
                 "last_commit": "2026-08-15T09:20:08Z",
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24648
+                "stars": 24649
               }
             },
             {
@@ -1698,7 +1698,7 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-27T04:01:12Z",
+                "last_commit": "2026-08-27T06:47:34Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2565
@@ -1781,9 +1781,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:01:23.465Z",
-    "original_repository": "onmyway133/awesome-ios-architecture",
-    "original_repository_id": 49082519,
+    "last_updated": "2026-08-27T11:43:48.643Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 49082519,
+      "language": null,
+      "last_commit": "2023-11-29T09:31:50Z",
+      "owner": "onmyway133",
+      "repo": "awesome-ios-architecture",
+      "stars": 5266
+    },
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
     "enhanced_repository": "enhansome/enhansome-ios-architecture",
     "enhanced_repository_description": null,
