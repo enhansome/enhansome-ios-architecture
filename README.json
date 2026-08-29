@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo iOS application built to highlight MVP (Model View Presenter) and Clean Architecture concepts",
+                "homepage": null,
                 "id": 84073510,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-02-14T13:35:42Z",
+                "open_issues": 0,
                 "owner": "FortechRomania",
                 "repo": "ios-mvp-clean-architecture",
-                "stars": 764
+                "stars": 764,
+                "topics": [
+                  "clean-architecture",
+                  "ios",
+                  "mvp",
+                  "mvp-architecture",
+                  "swift",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -28,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample Application demonstrating the MVC, MVP and MVVM architecture patterns on iOS",
+                "homepage": null,
                 "id": 78778559,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-06-22T22:02:20Z",
+                "open_issues": 1,
                 "owner": "rajagp",
                 "repo": "iOS_MVC_MVP_MVVM_SampleApp",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -44,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 81305564,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2018-09-05T02:39:40Z",
+                "open_issues": 2,
                 "owner": "baoshanf",
                 "repo": "MVP-iOS",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -60,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 52243975,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2017-04-23T02:19:29Z",
+                "open_issues": 1,
                 "owner": "amacou",
                 "repo": "MVPExample",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -76,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo Application To Show MVP Design Pattern In IOS Application.",
+                "homepage": null,
                 "id": 13985619,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2015-01-02T09:29:11Z",
+                "open_issues": 0,
                 "owner": "SSamanta",
                 "repo": "AppDemo",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -92,12 +124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example MVP implementation for iOS, written in Objective-C",
+                "homepage": null,
                 "id": 47078567,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2016-01-26T13:56:52Z",
+                "open_issues": 0,
                 "owner": "voghDev",
                 "repo": "foodMVP",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -108,12 +145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS Swift MVP architecture",
+                "homepage": null,
                 "id": 86082517,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2017-03-24T15:24:58Z",
+                "open_issues": 0,
                 "owner": "Quaggie",
                 "repo": "MVP-iOS",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -124,12 +166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo of MVP pattern in iOS development.",
+                "homepage": null,
                 "id": 101632917,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2017-08-29T05:47:38Z",
+                "open_issues": 0,
                 "owner": "shuilinok",
                 "repo": "MVP",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -153,12 +200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SwipeIt - Reddit with a swipe",
+                "homepage": null,
                 "id": 52982371,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-08-16T01:03:42Z",
+                "open_issues": 1,
                 "owner": "ivanbruel",
                 "repo": "SwipeIt",
-                "stars": 439
+                "stars": 439,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -176,12 +228,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for reactive and unidirectional Swift applications",
+                "homepage": "http://reactorkit.io",
                 "id": 78230922,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-05-07T13:17:41Z",
+                "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2788
+                "stars": 2788,
+                "topics": [
+                  "architecture",
+                  "reactive",
+                  "reactorkit",
+                  "rxswift",
+                  "swift",
+                  "unidirectional"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -192,12 +256,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎌 Powerful navigation library for iOS based on the coordinator pattern",
+                "homepage": null,
                 "id": 141122309,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-02T14:52:57Z",
+                "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2389
+                "stars": 2389,
+                "topics": [
+                  "coordinator",
+                  "coordinator-pattern",
+                  "ios",
+                  "ios-swift",
+                  "mvvm",
+                  "mvvm-architecture",
+                  "mvvm-c",
+                  "mvvm-coordinator",
+                  "rxswift",
+                  "rxswift-extensions",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -208,12 +289,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example of MVVM-C architecture implemented with RxSwift",
+                "homepage": null,
                 "id": 96092083,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2020-03-07T14:20:15Z",
+                "open_issues": 10,
                 "owner": "uptechteam",
                 "repo": "Coordinator-MVVM-Rx-Example",
-                "stars": 564
+                "stars": 564,
+                "topics": [
+                  "architecture",
+                  "coordinator",
+                  "ios",
+                  "mvvm",
+                  "rxswift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -224,12 +316,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A movie iOS app built with the MVVM architecture, Combine and SwiftUI frameworks https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/.",
+                "homepage": "https://www.vadimbulavin.com/",
                 "id": 246861001,
                 "language": "Swift",
+                "license": "Unlicense",
                 "last_commit": "2020-03-25T08:58:19Z",
+                "open_issues": 7,
                 "owner": "V8tr",
                 "repo": "ModernMVVM",
-                "stars": 470
+                "stars": 470,
+                "topics": [
+                  "combine",
+                  "ios",
+                  "mvvm",
+                  "swift",
+                  "swiftui"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -240,12 +343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation for native application development at Kickstarter.",
+                "homepage": null,
                 "id": 57409315,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-13T21:37:25Z",
+                "open_issues": 0,
                 "owner": "kickstarter",
                 "repo": "native-docs",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -269,12 +377,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example of Modern Domain Driven modularisation of iOS apps",
+                "homepage": null,
                 "id": 82974632,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2025-02-12T17:51:06Z",
+                "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4102
+                "stars": 4102,
+                "topics": [
+                  "clean-architecture",
+                  "composable-architecture",
+                  "ios",
+                  "layered-architecture",
+                  "mvvm-architecture",
+                  "redux",
+                  "swiftui"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -285,12 +406,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.",
+                "homepage": "https://clean-swift.com/clean-swift-ios-architecture/",
                 "id": 41845692,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-10-05T04:06:37Z",
+                "open_issues": 25,
                 "owner": "Clean-Swift",
                 "repo": "CleanStore",
-                "stars": 1922
+                "stars": 1922,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -301,12 +427,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An iOS application written in Swift to demonstrate how to implement a Clean Architecture in iOS",
+                "homepage": null,
                 "id": 113685133,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-12-01T10:18:33Z",
+                "open_issues": 0,
                 "owner": "tiagomartinho",
                 "repo": "Reminders",
-                "stars": 315
+                "stars": 315,
+                "topics": [
+                  "clean-architecture",
+                  "clean-code",
+                  "ios",
+                  "swift",
+                  "tdd"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -317,12 +454,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":hammer: A generator of Clean Swift Architecture files",
+                "homepage": null,
                 "id": 219667178,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2020-05-19T17:57:10Z",
+                "open_issues": 0,
                 "owner": "emrcftci",
                 "repo": "CleanSwiftArchitectureGenerator",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "architecture",
+                  "clean",
+                  "clean-architecture",
+                  "clean-swift",
+                  "file-template",
+                  "ios",
+                  "swift",
+                  "xcode",
+                  "xcode-template"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -346,12 +498,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UIKit a-là SwiftUI.framework [min deployment target iOS10]",
+                "homepage": null,
                 "id": 56135227,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2019-12-13T14:45:11Z",
+                "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2150
+                "stars": 2150,
+                "topics": [
+                  "elm-architecture",
+                  "ios",
+                  "layout-engine",
+                  "reconciliation",
+                  "swift",
+                  "swiftui",
+                  "uikit",
+                  "uiview",
+                  "unidirectional-data-flow",
+                  "virtual-dom"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -362,12 +530,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "UIViews that update themselves when your data changes, like React.",
+                "homepage": null,
                 "id": 55360894,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-10-18T17:30:11Z",
+                "open_issues": 0,
                 "owner": "sahandnayebaziz",
                 "repo": "StateView",
-                "stars": 481
+                "stars": 481,
+                "topics": [
+                  "declarative",
+                  "react",
+                  "swift",
+                  "uiview"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -378,12 +556,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "App architecture with one-way data data flow and view models",
+                "homepage": null,
                 "id": 48213031,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2017-03-20T21:00:19Z",
+                "open_issues": 1,
                 "owner": "alanf",
                 "repo": "ziggurat",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -401,12 +584,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unidirectional Data Flow in Swift - Inspired by Redux",
+                "homepage": "http://reswift.github.io/ReSwift/",
                 "id": 48027844,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-04-22T14:51:58Z",
+                "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7591
+                "stars": 7591,
+                "topics": [
+                  "redux",
+                  "reswift",
+                  "swift",
+                  "unidirectional-data-flow"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -417,12 +610,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for reactive and unidirectional Swift applications",
+                "homepage": "http://reactorkit.io",
                 "id": 78230922,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-05-07T13:17:41Z",
+                "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2788
+                "stars": 2788,
+                "topics": [
+                  "architecture",
+                  "reactive",
+                  "reactorkit",
+                  "rxswift",
+                  "swift",
+                  "unidirectional"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -433,12 +638,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by Redux.",
+                "homepage": "http://bendingspoons.com",
                 "id": 65275953,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-11-08T10:17:51Z",
+                "open_issues": 0,
                 "owner": "BendingSpoons",
                 "repo": "katana-swift",
-                "stars": 2233
+                "stars": 2233,
+                "topics": [
+                  "ios",
+                  "katana",
+                  "redux",
+                  "swift",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -449,12 +665,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UIKit a-là SwiftUI.framework [min deployment target iOS10]",
+                "homepage": null,
                 "id": 56135227,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2019-12-13T14:45:11Z",
+                "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2150
+                "stars": 2150,
+                "topics": [
+                  "elm-architecture",
+                  "ios",
+                  "layout-engine",
+                  "reconciliation",
+                  "swift",
+                  "swiftui",
+                  "uikit",
+                  "uiview",
+                  "unidirectional-data-flow",
+                  "virtual-dom"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -465,12 +697,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Views as functions of their state.",
+                "homepage": null,
                 "id": 22530083,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-01-23T09:26:14Z",
+                "open_issues": 14,
                 "owner": "joshaber",
                 "repo": "Few.swift",
-                "stars": 1074
+                "stars": 1074,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -481,12 +718,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The universal system operator and architecture for RxSwift",
+                "homepage": null,
                 "id": 88841746,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-09-21T08:37:09Z",
+                "open_issues": 18,
                 "owner": "NoTests",
                 "repo": "RxFeedback.swift",
-                "stars": 1019
+                "stars": 1019,
+                "topics": [
+                  "architecture",
+                  "feedback-loop",
+                  "rxcocoa",
+                  "rxswift",
+                  "swift",
+                  "universal-operator"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -497,12 +746,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A holistic approach to iOS development, inspired by Redux and MVVM",
+                "homepage": "http://bendingspoons.com/",
                 "id": 98112046,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-04-03T16:02:24Z",
+                "open_issues": 4,
                 "owner": "BendingSpoons",
                 "repo": "tempura-swift",
-                "stars": 713
+                "stars": 713,
+                "topics": [
+                  "ios",
+                  "katana",
+                  "mvvm",
+                  "redux",
+                  "uikit"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -513,12 +773,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift + Redux + (SwiftConcurrency | Combine | RxSwift | ReactiveSwift | ReactiveConcurrency) -> SwiftRex",
+                "homepage": "https://swiftrex.github.io/SwiftRex/",
                 "id": 127492366,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-23T12:52:49Z",
+                "open_issues": 1,
                 "owner": "SwiftRex",
                 "repo": "SwiftRex",
-                "stars": 618
+                "stars": 618,
+                "topics": [
+                  "apple",
+                  "combine",
+                  "combine-framework",
+                  "event-sourcing",
+                  "frp",
+                  "functional-programming",
+                  "observable",
+                  "publisher",
+                  "reactive-programming",
+                  "reactivecocoa",
+                  "reactiveswift",
+                  "reducer",
+                  "redux",
+                  "rxswift",
+                  "state-machine",
+                  "subscriber",
+                  "swift",
+                  "swiftconcurrency",
+                  "swiftui",
+                  "unidirectional-dataflow"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -529,12 +815,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional reactive framework for managing state evolution and side-effects [Swift implementation]",
+                "homepage": null,
                 "id": 173754003,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T11:10:36Z",
+                "open_issues": 7,
                 "owner": "spotify",
                 "repo": "Mobius.swift",
-                "stars": 583
+                "stars": 583,
+                "topics": [
+                  "functional-reactive-programming",
+                  "ios",
+                  "mobius",
+                  "state-management",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -545,12 +842,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unidirectional, transactional, operation-based Store implementation.",
+                "homepage": null,
                 "id": 85734625,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2021-10-31T12:22:22Z",
+                "open_issues": 0,
                 "owner": "alexdrone",
                 "repo": "Store",
-                "stars": 501
+                "stars": 501,
+                "topics": [
+                  "binding",
+                  "combine",
+                  "dispatcher",
+                  "flux-application",
+                  "redux",
+                  "stateobject",
+                  "store",
+                  "swift",
+                  "swiftui",
+                  "unidirectional-data-flow"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -561,12 +874,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Elm Architecture in Swift",
+                "homepage": null,
                 "id": 95004316,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2017-09-19T06:38:06Z",
+                "open_issues": 0,
                 "owner": "chriseidhof",
                 "repo": "tea-in-swift",
-                "stars": 410
+                "stars": 410,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -577,12 +895,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A type-safe Flux implementation for Swift",
+                "homepage": null,
                 "id": 40004524,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-06-21T01:35:09Z",
+                "open_issues": 6,
                 "owner": "yonekawa",
                 "repo": "SwiftFlux",
-                "stars": 234
+                "stars": 234,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -593,12 +916,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔄 Unidirectional data flow in Swift.",
+                "homepage": null,
                 "id": 65959430,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-06-13T17:02:01Z",
+                "open_issues": 3,
                 "owner": "ReactorSwift",
                 "repo": "Reactor",
-                "stars": 176
+                "stars": 176,
+                "topics": [
+                  "architecture",
+                  "elm-architecture",
+                  "ios",
+                  "mac",
+                  "mac-app",
+                  "redux",
+                  "swift",
+                  "unidirectional-data-flow"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -609,12 +946,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swift library for state management with unidirectional data flow.",
+                "homepage": "https://swiftpackageindex.com/DevYeom/OneWay/documentation/oneway",
                 "id": 494964641,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-06-03T06:46:45Z",
+                "open_issues": 0,
                 "owner": "DevYeom",
                 "repo": "OneWay",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "architecture",
+                  "state-management",
+                  "swift",
+                  "unidirectional-data-flow"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -625,12 +972,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":crystal_ball: Stateless message-driven micro-framework in Swift.",
+                "homepage": "http://hyper.no",
                 "id": 66086829,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2017-03-28T14:15:25Z",
+                "open_issues": 0,
                 "owner": "hyperoslo",
                 "repo": "Aftermath",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "command",
+                  "handler",
+                  "stateless",
+                  "unidirectional-data-flow"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -641,12 +998,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swift Redux library utilizing Apple's Combine Framework.",
+                "homepage": "https://ReCombine.io",
                 "id": 235391416,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-10-25T16:45:50Z",
+                "open_issues": 2,
                 "owner": "ReCombine",
                 "repo": "ReCombine",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "combine-framework",
+                  "redux-framework",
+                  "swift",
+                  "swiftui"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -657,12 +1024,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and simple multi-store Redux-like architecture framework for iOS/OSX applications  ",
+                "homepage": null,
                 "id": 507390269,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-11-04T15:33:30Z",
+                "open_issues": 0,
                 "owner": "cooler333",
                 "repo": "Highway",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "architecture",
+                  "composable",
+                  "flux",
+                  "ios",
+                  "multistore",
+                  "osx",
+                  "redux",
+                  "state-machine",
+                  "swift",
+                  "swiftui",
+                  "tea",
+                  "testability",
+                  "udf",
+                  "unidirectional-data-flow"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -673,12 +1060,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReactComponentKit = Component + MVVM + Redux for iOS!!!",
+                "homepage": "https://github.com/ReactComponentKit/ReactComponentKit",
                 "id": 141912345,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-09-19T12:07:09Z",
+                "open_issues": 0,
                 "owner": "ReactComponentKit",
                 "repo": "ReactComponentKit",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "component",
+                  "ios",
+                  "mvvm",
+                  "react",
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -702,12 +1100,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the one and the only",
+                "homepage": null,
                 "id": 45968523,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-08T14:24:16Z",
+                "open_issues": 29,
                 "owner": "strongself",
                 "repo": "The-Book-of-VIPER",
-                "stars": 960
+                "stars": 960,
+                "topics": [
+                  "architecture",
+                  "book",
+                  "viper"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -718,12 +1125,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Viper Framework for iOS using Swift",
+                "homepage": null,
                 "id": 73416937,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-09-15T10:38:29Z",
+                "open_issues": 5,
                 "owner": "ferranabello",
                 "repo": "Viperit",
-                "stars": 514
+                "stars": 514,
+                "topics": [
+                  "carthage",
+                  "cocoapods",
+                  "swift",
+                  "swift-5",
+                  "swift5",
+                  "viper"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -734,12 +1153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quick example of how divide an app into modules to respect the SOLID principles",
+                "homepage": null,
                 "id": 34498392,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-04-07T07:46:55Z",
+                "open_issues": 1,
                 "owner": "JeanLebrument",
                 "repo": "iOSModulesArchitecture",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -757,12 +1181,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.",
+                "homepage": "https://outcomeschool.com",
                 "id": 82390641,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-20T04:45:44Z",
+                "open_issues": 4,
                 "owner": "amitshekhariitbhu",
                 "repo": "iOS-Viper-Architecture",
-                "stars": 736
+                "stars": 736,
+                "topics": [
+                  "alamofire",
+                  "alamofireimage",
+                  "coredata",
+                  "ios",
+                  "ios-app",
+                  "ios-swift",
+                  "viper",
+                  "viper-architecture"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -773,12 +1211,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.",
+                "homepage": null,
                 "id": 89347145,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-27T14:02:31Z",
+                "open_issues": 3,
                 "owner": "infinum",
                 "repo": "ios-viper-xcode-templates",
-                "stars": 591
+                "stars": 591,
+                "topics": [
+                  "ios",
+                  "open-source"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -789,12 +1235,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sample iOS app written in Swift using the VIPER architecture.",
+                "homepage": "http://roroche.github.io/iOSSwiftStarter",
                 "id": 49761022,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2020-04-26T16:48:36Z",
+                "open_issues": 3,
                 "owner": "RoRoche",
                 "repo": "iOSSwiftStarter",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "alamofire",
+                  "async",
+                  "cocoapods",
+                  "coredata",
+                  "kingfisher",
+                  "react",
+                  "swift",
+                  "viper-architecture"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -805,12 +1265,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memory leak free of VIPER with TDD implementation",
+                "homepage": null,
                 "id": 150422101,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2018-10-26T03:34:27Z",
+                "open_issues": 0,
                 "owner": "hendych",
                 "repo": "VIPER-TDD",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "architecture",
+                  "clean",
+                  "ios",
+                  "leak",
+                  "memory",
+                  "sample",
+                  "swift",
+                  "tdd",
+                  "tutorial",
+                  "viper"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -834,12 +1310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator",
+                "homepage": null,
                 "id": 377967286,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-10-10T23:18:47Z",
+                "open_issues": 24,
                 "owner": "johnpatrickmorgan",
                 "repo": "FlowStacks",
-                "stars": 969
+                "stars": 969,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -850,12 +1331,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coordinators in SwiftUI. Simple, powerful and elegant.",
+                "homepage": null,
                 "id": 340845988,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-03-28T07:04:00Z",
+                "open_issues": 44,
                 "owner": "rundfunk47",
                 "repo": "stinsen",
-                "stars": 956
+                "stars": 955,
+                "topics": [
+                  "coordinator",
+                  "coordinator-pattern",
+                  "coordinators",
+                  "ios",
+                  "macos",
+                  "macosx",
+                  "mvvm",
+                  "mvvm-c",
+                  "swift",
+                  "swift-library",
+                  "swift5",
+                  "swiftui",
+                  "tvos",
+                  "watchos"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -866,12 +1367,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🌾 Harvest: Apple's Combine.framework + State Machine, inspired by Elm.",
+                "homepage": null,
                 "id": 190669554,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-12-12T05:04:14Z",
+                "open_issues": 3,
                 "owner": "inamiy",
                 "repo": "Harvest",
-                "stars": 381
+                "stars": 381,
+                "topics": [
+                  "automaton",
+                  "combine-framework",
+                  "elm",
+                  "redux",
+                  "state-machine",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -895,12 +1408,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Techniques, improvements, and a Swift port derived from WWDC 2014 Session 232, \"Advanced User Interfaces Using Collection View\"",
+                "homepage": null,
                 "id": 21720877,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2016-03-19T04:39:31Z",
+                "open_issues": 7,
                 "owner": "zwaldowski",
                 "repo": "AdvancedCollectionView",
-                "stars": 179
+                "stars": 179,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -918,12 +1436,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
+                "homepage": "https://instagram.github.io/IGListKit/",
                 "id": 67588512,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2026-08-19T23:51:03Z",
+                "open_issues": 62,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13069
+                "stars": 13069,
+                "topics": [
+                  "diffing",
+                  "instagram",
+                  "ios",
+                  "objective-c",
+                  "uicollectionview"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -934,12 +1463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React-inspired view framework for iOS.",
+                "homepage": "http://www.componentkit.org/",
                 "id": 32600951,
                 "language": "Objective-C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-16T14:37:39Z",
+                "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5756
+                "stars": 5756,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -950,12 +1484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📡 Native App over HTTP, on iOS",
+                "homepage": "https://www.jasonette.com",
                 "id": 72155591,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-05-31T16:50:09Z",
+                "open_issues": 130,
                 "owner": "Jasonette",
                 "repo": "JASONETTE-iOS",
-                "stars": 5226
+                "stars": 5226,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -966,12 +1505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.",
+                "homepage": null,
                 "id": 152196880,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-11T19:43:45Z",
+                "open_issues": 24,
                 "owner": "marlimox",
                 "repo": "AloeStackView",
-                "stars": 2816
+                "stars": 2816,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -982,12 +1526,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED – Spotify’s component-driven UI framework for iOS",
+                "homepage": "https://spotify.github.io/HubFramework",
                 "id": 69279243,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2018-11-06T10:34:05Z",
+                "open_issues": 11,
                 "owner": "spotify",
                 "repo": "HubFramework",
-                "stars": 1889
+                "stars": 1889,
+                "topics": [
+                  "component-driven",
+                  "hub-framework",
+                  "ios",
+                  "spotify",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -998,12 +1553,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.",
+                "homepage": "https://ra1028.github.io/Carbon",
                 "id": 164695859,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-13T10:04:33Z",
+                "open_issues": 10,
                 "owner": "ra1028",
                 "repo": "Carbon",
-                "stars": 1356
+                "stars": 1356,
+                "topics": [
+                  "component",
+                  "datasource",
+                  "declarative",
+                  "delegate",
+                  "differencekit",
+                  "diffing",
+                  "functionbuilder",
+                  "ios",
+                  "node",
+                  "react",
+                  "render",
+                  "swift",
+                  "swiftui",
+                  "uicollectionview",
+                  "uitableview"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1014,12 +1590,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift",
+                "homepage": null,
                 "id": 152341224,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T19:29:56Z",
+                "open_issues": 11,
                 "owner": "airbnb",
                 "repo": "epoxy-ios",
-                "stars": 1319
+                "stars": 1319,
+                "topics": [
+                  "ios",
+                  "swift",
+                  "uicollectionview",
+                  "uikit",
+                  "uinavigationcontroller"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1030,12 +1617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple static table views for iOS in Swift.",
+                "homepage": "http://blog.soff.es/static",
                 "id": 38176891,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-10-22T18:21:03Z",
+                "open_issues": 21,
                 "owner": "venmo",
                 "repo": "Static",
-                "stars": 1245
+                "stars": 1245,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1046,12 +1638,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⚠️ Deprecated ⚠️",
+                "homepage": "https://www.jessesquires.com/blog/2020/04/14/deprecating-jsqdatasourceskit/",
                 "id": 30472700,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2020-04-15T00:29:40Z",
+                "open_issues": 0,
                 "owner": "jessesquires",
                 "repo": "JSQDataSourcesKit",
-                "stars": 677
+                "stars": 677,
+                "topics": [
+                  "datasource",
+                  "ios",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1062,12 +1663,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A view controller that uses root views of child view controllers as views in a UIStackView.",
+                "homepage": "https://tech.justeattakeaway.com/",
                 "id": 92985545,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-05T10:58:57Z",
+                "open_issues": 0,
                 "owner": "justeat",
                 "repo": "ScrollingStackViewController",
-                "stars": 646
+                "stars": 646,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1078,12 +1684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤓 Smart, modern table and collection views on iOS",
+                "homepage": null,
                 "id": 14942120,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-07-09T16:10:31Z",
+                "open_issues": 0,
                 "owner": "jordanekay",
                 "repo": "Mensa",
-                "stars": 547
+                "stars": 547,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1094,12 +1705,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Protocol-oriented UITableView management, powered by generics and associated types.",
+                "homepage": null,
                 "id": 5998758,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-07-16T14:05:46Z",
+                "open_issues": 0,
                 "owner": "DenTelezhkin",
                 "repo": "DTTableViewManager",
-                "stars": 452
+                "stars": 452,
+                "topics": [
+                  "datasource",
+                  "delegate",
+                  "ios",
+                  "protocol",
+                  "swift",
+                  "uitableview"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1110,12 +1733,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A declarative type-safe framework for building fast and flexible lists with UITableViews & UICollectionViews",
+                "homepage": null,
                 "id": 184282181,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-03-06T14:22:36Z",
+                "open_issues": 13,
                 "owner": "malcommac",
                 "repo": "Owl",
-                "stars": 427
+                "stars": 427,
+                "topics": [
+                  "ios-swift",
+                  "swift",
+                  "swift-framework",
+                  "swiftlang",
+                  "uicollectionview",
+                  "uikit",
+                  "uitableview"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1126,12 +1762,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Declarative approach to populate and manage UITableViews (see https://github.com/malcommac/FlowKit)",
+                "homepage": null,
                 "id": 99253559,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-04-30T16:04:00Z",
+                "open_issues": 5,
                 "owner": "malcommac",
                 "repo": "Flow",
-                "stars": 418
+                "stars": 418,
+                "topics": [
+                  "declarative",
+                  "swift",
+                  "tableview",
+                  "uitableview",
+                  "uitableviewdatasource",
+                  "uitableviewdelegate"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1142,12 +1790,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📋 iOS Form UI Builder in Swift (powered by UICollectionView)",
+                "homepage": null,
                 "id": 66780780,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-01-26T00:43:21Z",
+                "open_issues": 2,
                 "owner": "FluidGroup",
                 "repo": "StackScrollView",
-                "stars": 417
+                "stars": 417,
+                "topics": [
+                  "form",
+                  "uicollectionview",
+                  "uistackview",
+                  "uistackview-scrollable"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1158,12 +1816,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift library for building component-based interfaces on top of UITableView and UICollectionView 🍱",
+                "homepage": null,
                 "id": 118751888,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-09-01T11:53:19Z",
+                "open_issues": 7,
                 "owner": "babylonhealth",
                 "repo": "Bento",
-                "stars": 371
+                "stars": 371,
+                "topics": [
+                  "declarative",
+                  "diff",
+                  "diffing",
+                  "ios",
+                  "ios-swift",
+                  "swift",
+                  "uitableview"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1174,12 +1845,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Declarative UITableViewDataSource implementation",
+                "homepage": null,
                 "id": 98907583,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-08-07T14:57:28Z",
+                "open_issues": 12,
                 "owner": "Shopify",
                 "repo": "FunctionalTableData",
-                "stars": 370
+                "stars": 370,
+                "topics": [
+                  "declarative",
+                  "functional-programming",
+                  "ios",
+                  "swift",
+                  "uicollectionview",
+                  "uitableview",
+                  "user-interface"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1190,12 +1874,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically perform UITableView and UICollectionView animations between two sets of immutable data. It supports generic data types and is fully thread-safe.",
+                "homepage": null,
                 "id": 148819270,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-05-11T17:07:59Z",
+                "open_issues": 0,
                 "owner": "scribd",
                 "repo": "LiveCollections",
-                "stars": 340
+                "stars": 340,
+                "topics": [
+                  "animation",
+                  "animations",
+                  "framework",
+                  "immutable-datastructures",
+                  "ios",
+                  "ios-swift",
+                  "open-source",
+                  "swift",
+                  "swift-framework",
+                  "swift-library",
+                  "thread-safe",
+                  "uicollectionview",
+                  "uitableview"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1206,12 +1909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swift data structure for easier pagination",
+                "homepage": null,
                 "id": 31832176,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-10-27T12:46:10Z",
+                "open_issues": 2,
                 "owner": "MrAlek",
                 "repo": "PagedArray",
-                "stars": 316
+                "stars": 316,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1222,12 +1930,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React-like API for UITableView & UICollectionView",
+                "homepage": "https://plangrid.github.io/ReactiveLists",
                 "id": 118489570,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-11-23T08:56:17Z",
+                "open_issues": 17,
                 "owner": "plangrid",
                 "repo": "ReactiveLists",
-                "stars": 253
+                "stars": 253,
+                "topics": [
+                  "collectionview",
+                  "declarative-ui",
+                  "ios",
+                  "public",
+                  "react",
+                  "reactive-programming",
+                  "swift",
+                  "tableview",
+                  "uikit"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1238,12 +1961,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A declarative type-safe framework for building fast and flexible list with Tables & Collection",
+                "homepage": null,
                 "id": 130465868,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-04-30T18:06:54Z",
+                "open_issues": 8,
                 "owner": "malcommac",
                 "repo": "FlowKit",
-                "stars": 207
+                "stars": 207,
+                "topics": [
+                  "autolayout",
+                  "datasource",
+                  "declarative",
+                  "delegate",
+                  "typesafe",
+                  "typesafety",
+                  "uicollectionview",
+                  "uitableview"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1254,12 +1991,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Efficient Scrolling UIStackView in Swift - DEPRECATED (use ScrollStackController)",
+                "homepage": null,
                 "id": 93171104,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-06-25T08:45:59Z",
+                "open_issues": 10,
                 "owner": "malcommac",
                 "repo": "ScrollingStackContainer",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "swift",
+                  "swift-library",
+                  "uistackview",
+                  "uistackview-scrollable"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1270,12 +2017,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A declarative-ui framework for UICollectionView with great and useful features.",
+                "homepage": null,
                 "id": 83295128,
                 "language": "Swift",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-08-27T09:49:58Z",
+                "open_issues": 0,
                 "owner": "sncf-connect-tech",
                 "repo": "Collor",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "cocoapods",
+                  "declarative",
+                  "declarative-ui",
+                  "decoration-views",
+                  "descriptor",
+                  "diffing",
+                  "diffing-data",
+                  "ios",
+                  "mvvm",
+                  "supplementary-views",
+                  "swift",
+                  "uicollectionview",
+                  "viewmodel"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1286,12 +2052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reusable table view controller, data source and delegate for all your UITableView needs",
+                "homepage": null,
                 "id": 34340133,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2015-05-08T15:48:47Z",
+                "open_issues": 0,
                 "owner": "rlopezdiez",
                 "repo": "RLDTableViewSuite",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1302,12 +2073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example on using the Mantle Modeling Framework with Overcoat AFNetworking extension.",
+                "homepage": null,
                 "id": 12379881,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2014-06-20T15:53:01Z",
+                "open_issues": 3,
                 "owner": "gonzalezreal",
                 "repo": "ReadingList",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1318,12 +2094,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏎Fast diffing and type safe SwiftUI style data source for UICollectionView",
+                "homepage": "https://onmyway133.com/apps",
                 "id": 239261640,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2020-06-11T06:25:20Z",
+                "open_issues": 0,
                 "owner": "onmyway133",
                 "repo": "Micro",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "datasource",
+                  "diff",
+                  "reload",
+                  "safe",
+                  "swift",
+                  "swiftui",
+                  "uicollectionview"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1334,12 +2123,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⛲️ Adapted Data Source in Swift and a little bit more",
+                "homepage": "https://onmyway133.github.io/",
                 "id": 120276722,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2020-05-12T21:30:42Z",
+                "open_issues": 0,
                 "owner": "onmyway133",
                 "repo": "Upstream",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "datasource",
+                  "generic",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1350,12 +2148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bamboo: Spots is a cross-platform view controller framework for building component-based UIs",
+                "homepage": null,
                 "id": 145678679,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2018-04-12T12:27:12Z",
+                "open_issues": 0,
                 "owner": "hyperoslo",
                 "repo": "Spots",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -1379,12 +2182,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍁 What you don't know is what you haven't learned",
+                "homepage": "https://onmyway133.com/",
                 "id": 89517490,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-02-25T18:09:27Z",
+                "open_issues": 1007,
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 701
+                "stars": 701,
+                "topics": [
+                  "blog",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -1402,12 +2213,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Uber's cross-platform mobile architecture framework - Android Repository",
+                "homepage": "https://eng.uber.com/tag/ribs/",
                 "id": 105686726,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-15T22:14:43Z",
+                "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7933
+                "stars": 7933,
+                "topics": [
+                  "android",
+                  "architectural-patterns",
+                  "architecture",
+                  "mobile",
+                  "mobile-app",
+                  "mobile-development",
+                  "mvc",
+                  "mvp",
+                  "mvvm",
+                  "viper"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1418,12 +2245,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.",
+                "homepage": null,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T06:09:29Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:54:32Z",
+                "open_issues": 20,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3775
+                "stars": 3774,
+                "topics": [
+                  "android",
+                  "app",
+                  "app-store",
+                  "art",
+                  "ios",
+                  "objective-c",
+                  "react-native",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1434,12 +2275,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub iOS client in RxSwift and MVVM-C clean architecture",
+                "homepage": null,
                 "id": 78011995,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-02-15T16:15:53Z",
+                "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3117
+                "stars": 3117,
+                "topics": [
+                  "cleanarchitecture",
+                  "fastlane",
+                  "github",
+                  "graphql",
+                  "moya",
+                  "mvvm",
+                  "mvvm-architecture",
+                  "networking",
+                  "open-source",
+                  "rest",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1450,12 +2309,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others",
+                "homepage": null,
                 "id": 167632213,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-05-16T12:52:58Z",
+                "open_issues": 4,
                 "owner": "tailec",
                 "repo": "ios-architecture",
-                "stars": 1524
+                "stars": 1524,
+                "topics": [
+                  "architecture",
+                  "ios",
+                  "ios-architectures",
+                  "mvc",
+                  "mvvm",
+                  "redux",
+                  "rib",
+                  "rxswift",
+                  "swift",
+                  "viper"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1466,12 +2341,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Flint framework for building apps on Apple platforms using Feature Driven Development",
+                "homepage": "https://flint.tools",
                 "id": 120908184,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-08-01T16:16:41Z",
+                "open_issues": 73,
                 "owner": "MontanaFlossCo",
                 "repo": "Flint",
-                "stars": 623
+                "stars": 623,
+                "topics": [
+                  "appframework-library",
+                  "apple",
+                  "ios",
+                  "logging",
+                  "macos",
+                  "siri",
+                  "swift",
+                  "tvos",
+                  "watchos"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1482,12 +2372,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A base for iOS Applications made with ❤️ by Mindera 🤠",
+                "homepage": null,
                 "id": 76610307,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-07-31T08:24:54Z",
+                "open_issues": 3,
                 "owner": "Mindera",
                 "repo": "Alicerce",
-                "stars": 466
+                "stars": 466,
+                "topics": [
+                  "foundation",
+                  "framework",
+                  "ios",
+                  "mindera",
+                  "swift",
+                  "util"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1498,12 +2400,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Managing state is hard. Delta aims to make it simple.",
+                "homepage": "http://thoughtbot.github.io/Delta/",
                 "id": 46135872,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-12-22T03:31:38Z",
+                "open_issues": 0,
                 "owner": "thoughtbot",
                 "repo": "Delta",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1514,12 +2421,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Logic programming in Swift",
+                "homepage": null,
                 "id": 67143428,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-05-17T07:04:35Z",
+                "open_issues": 6,
                 "owner": "mdiep",
                 "repo": "Logician",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "constraints",
+                  "kanren",
+                  "logic-programming",
+                  "solver",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1530,12 +2448,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Examples of iOS Modular Architecture in Swift",
+                "homepage": null,
                 "id": 37832983,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2018-01-30T23:35:31Z",
+                "open_issues": 0,
                 "owner": "bricepollock",
                 "repo": "modular-architecture",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -1553,12 +2476,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":package: Nothing but Cache.",
+                "homepage": null,
                 "id": 43440762,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-30T17:31:03Z",
+                "open_issues": 12,
                 "owner": "hyperoslo",
                 "repo": "Cache",
-                "stars": 3142
+                "stars": 3143,
+                "topics": [
+                  "cache",
+                  "cache-storage",
+                  "disk-cache",
+                  "ios",
+                  "memory-cache",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1569,12 +2504,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The missing light persistence layer for Swift",
+                "homepage": null,
                 "id": 45002662,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-05-30T12:21:06Z",
+                "open_issues": 13,
                 "owner": "nickoneill",
                 "repo": "Pantry",
-                "stars": 821
+                "stars": 821,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1585,12 +2525,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS Database Persistence Layer with SQLite, your next Persistence Layer!",
+                "homepage": null,
                 "id": 43801110,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2021-02-24T06:04:20Z",
+                "open_issues": 3,
                 "owner": "casatwy",
                 "repo": "CTPersistance",
-                "stars": 741
+                "stars": 741,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1601,12 +2546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A caching and consistency solution for immutable models.",
+                "homepage": "https://plivesey.github.io/RocketData",
                 "id": 63266096,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2020-01-16T18:02:15Z",
+                "open_issues": 13,
                 "owner": "plivesey",
                 "repo": "RocketData",
-                "stars": 648
+                "stars": 648,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1617,12 +2567,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "JustPersist is the easiest and safest way to do persistence on iOS with Core Data support out of the box. It also allows you to migrate to any other persistence framework with minimal effort.",
+                "homepage": "https://tech.justeattakeaway.com/",
                 "id": 83094609,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-05T10:33:07Z",
+                "open_issues": 0,
                 "owner": "justeat",
                 "repo": "JustPersist",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "coredata",
+                  "database",
+                  "ios",
+                  "model",
+                  "persistence"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -1640,12 +2601,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive Programming in Swift",
+                "homepage": null,
                 "id": 33569135,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-15T09:20:08Z",
+                "open_issues": 12,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24649
+                "stars": 24649,
+                "topics": [
+                  "functional",
+                  "ios",
+                  "observer",
+                  "reactive",
+                  "reactivex",
+                  "rxswift",
+                  "swift",
+                  "unidirectional"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1656,12 +2631,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced Operations in Swift",
+                "homepage": "http://procedure.kit.run/development/",
                 "id": 38116404,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-12-08T12:50:31Z",
+                "open_issues": 66,
                 "owner": "ProcedureKit",
                 "repo": "ProcedureKit",
-                "stars": 891
+                "stars": 891,
+                "topics": [
+                  "asynchronous-programming",
+                  "ios",
+                  "macos",
+                  "nsoperation",
+                  "procedurekit",
+                  "swift",
+                  "tvos",
+                  "watchos"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1672,12 +2661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A declarative architecture based on bindings",
+                "homepage": null,
                 "id": 124760979,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-10-14T18:27:27Z",
+                "open_issues": 7,
                 "owner": "DeclarativeHub",
                 "repo": "TheBinderArchitecture",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -1695,12 +2689,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎌 Powerful navigation library for iOS based on the coordinator pattern",
+                "homepage": null,
                 "id": 141122309,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-02T14:52:57Z",
+                "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2389
+                "stars": 2389,
+                "topics": [
+                  "coordinator",
+                  "coordinator-pattern",
+                  "ios",
+                  "ios-swift",
+                  "mvvm",
+                  "mvvm-architecture",
+                  "mvvm-c",
+                  "mvvm-coordinator",
+                  "rxswift",
+                  "rxswift-extensions",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1711,12 +2722,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern",
+                "homepage": null,
                 "id": 115838237,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-05-21T21:19:23Z",
+                "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1911
+                "stars": 1911,
+                "topics": [
+                  "coordinator",
+                  "flow",
+                  "reactive-programming",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1727,12 +2749,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":earth_africa: Compass helps you setup a central navigation system for your application",
+                "homepage": "http://hyper.no",
                 "id": 43808690,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2020-11-19T11:32:21Z",
+                "open_issues": 6,
                 "owner": "hyperoslo",
                 "repo": "Compass",
-                "stars": 821
+                "stars": 821,
+                "topics": [
+                  "compass",
+                  "ios",
+                  "navigation",
+                  "scheme",
+                  "swift",
+                  "url"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1743,12 +2777,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍁 What you don't know is what you haven't learned",
+                "homepage": "https://onmyway133.com/",
                 "id": 89517490,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-02-25T18:09:27Z",
+                "open_issues": 1007,
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 701
+                "stars": 701,
+                "topics": [
+                  "blog",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1759,12 +2801,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍁 What you don't know is what you haven't learned",
+                "homepage": "https://onmyway133.com/",
                 "id": 89517490,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-02-25T18:09:27Z",
+                "open_issues": 1007,
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 701
+                "stars": 701,
+                "topics": [
+                  "blog",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1775,12 +2825,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Navigation framework for iOS applications based on a weaving pattern",
+                "homepage": null,
                 "id": 98129564,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-03-13T17:50:04Z",
+                "open_issues": 0,
                 "owner": "twittemb",
                 "repo": "Archive.Weavy",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "coordinator",
+                  "navigation",
+                  "reactive",
+                  "rxswift",
+                  "storyboard",
+                  "swift",
+                  "weave"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -1798,12 +2861,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stripe iOS SDK    ",
+                "homepage": "https://stripe.com",
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-28T03:42:05Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:34:32Z",
+                "open_issues": 290,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2565
+                "stars": 2565,
+                "topics": [
+                  "stripe",
+                  "stripe-sdk"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1814,12 +2885,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides a modern way of implementing LINE APIs.",
+                "homepage": "https://developers.line.biz/ja/docs/line-login-sdks/",
                 "id": 154433729,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T05:14:06Z",
+                "open_issues": 7,
                 "owner": "line",
                 "repo": "line-sdk-ios-swift",
-                "stars": 878
+                "stars": 878,
+                "topics": [
+                  "line",
+                  "line-login",
+                  "line-sdk",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1830,12 +2911,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Swift framework for authenticating with the Spotify API",
+                "homepage": null,
                 "id": 99349003,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-09T18:31:24Z",
+                "open_issues": 12,
                 "owner": "spotify",
                 "repo": "SpotifyLogin",
-                "stars": 352
+                "stars": 352,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             },
@@ -1846,12 +2932,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official iOS SDK for Backchannel.",
+                "homepage": "https://backchannel.io",
                 "id": 45465806,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2016-11-29T01:28:06Z",
+                "open_issues": 1,
                 "owner": "backchannel",
                 "repo": "BackchannelSDK-iOS",
-                "stars": 233
+                "stars": 233,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -1869,12 +2960,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!",
+                "homepage": null,
                 "id": 145689632,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-05-27T11:18:15Z",
+                "open_issues": 9,
                 "owner": "JohnSundell",
                 "repo": "Splash",
-                "stars": 1869
+                "stars": 1869,
+                "topics": [
+                  "command-line-tool",
+                  "swift",
+                  "swift-package",
+                  "syntax-highlighting"
+                ]
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
             }
@@ -1888,15 +2989,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:22:06.873Z",
+    "last_updated": "2026-08-29T03:53:35.896Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":japanese_castle: Better ways to structure iOS apps",
+      "homepage": "https://onmyway133.com/",
       "id": 49082519,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-11-29T09:31:50Z",
+      "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5266
+      "stars": 5266,
+      "topics": [
+        "architecture",
+        "ios",
+        "mvvm",
+        "react"
+      ]
     },
     "original_repository_sha": "6f67b0706defad34baa5efc584b0963257550170",
     "enhanced_repository": "enhansome/enhansome-ios-architecture",
