@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7933,
+                "stars": 7934,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T05:19:36Z",
-                "open_issues": 20,
+                "last_commit": "2026-08-31T21:19:34Z",
+                "open_issues": 22,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3774,
@@ -2610,7 +2610,7 @@
                 "open_issues": 12,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24650,
+                "stars": 24651,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-28T22:34:32Z",
-                "open_issues": 290,
+                "last_commit": "2026-09-01T00:21:51Z",
+                "open_issues": 281,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2566,
+                "stars": 2568,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T00:52:46.756Z",
+    "last_updated": "2026-09-01T01:24:01.368Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
