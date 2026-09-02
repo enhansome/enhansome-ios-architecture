@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2391,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -1134,7 +1134,7 @@
                 "open_issues": 5,
                 "owner": "ferranabello",
                 "repo": "Viperit",
-                "stars": 514,
+                "stars": 513,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -1445,7 +1445,7 @@
                 "open_issues": 62,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13069,
+                "stars": 13068,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1493,7 +1493,7 @@
                 "open_issues": 130,
                 "owner": "Jasonette",
                 "repo": "JASONETTE-iOS",
-                "stars": 5226,
+                "stars": 5225,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7934,
+                "stars": 7935,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T21:19:34Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-01T19:56:58Z",
+                "open_issues": 23,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3774,
+                "stars": 3773,
                 "topics": [
                   "android",
                   "app",
@@ -2430,7 +2430,7 @@
                 "open_issues": 6,
                 "owner": "mdiep",
                 "repo": "Logician",
-                "stars": 201,
+                "stars": 200,
                 "topics": [
                   "constraints",
                   "kanren",
@@ -2534,7 +2534,7 @@
                 "open_issues": 3,
                 "owner": "casatwy",
                 "repo": "CTPersistance",
-                "stars": 741,
+                "stars": 740,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2607,7 +2607,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-08-15T09:20:08Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
                 "stars": 24651,
@@ -2640,7 +2640,7 @@
                 "open_issues": 66,
                 "owner": "ProcedureKit",
                 "repo": "ProcedureKit",
-                "stars": 891,
+                "stars": 890,
                 "topics": [
                   "asynchronous-programming",
                   "ios",
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2391,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-01T00:21:51Z",
-                "open_issues": 281,
+                "last_commit": "2026-09-01T23:55:08Z",
+                "open_issues": 280,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2568,
@@ -2969,7 +2969,7 @@
                 "open_issues": 9,
                 "owner": "JohnSundell",
                 "repo": "Splash",
-                "stars": 1869,
+                "stars": 1868,
                 "topics": [
                   "command-line-tool",
                   "swift",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:24:01.368Z",
+    "last_updated": "2026-09-02T00:33:14.963Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
