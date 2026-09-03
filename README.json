@@ -1562,7 +1562,7 @@
                 "open_issues": 10,
                 "owner": "ra1028",
                 "repo": "Carbon",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": [
                   "component",
                   "datasource",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T19:56:58Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-02T23:28:49Z",
+                "open_issues": 21,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3773,
@@ -2610,7 +2610,7 @@
                 "open_issues": 13,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24651,
+                "stars": 24649,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-01T23:55:08Z",
-                "open_issues": 280,
+                "last_commit": "2026-09-03T00:26:49Z",
+                "open_issues": 286,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2568,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:33:14.963Z",
+    "last_updated": "2026-09-03T00:43:06.828Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
