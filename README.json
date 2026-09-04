@@ -1445,7 +1445,7 @@
                 "open_issues": 62,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13068,
+                "stars": 13069,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T23:28:49Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-03T20:42:27Z",
+                "open_issues": 24,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3773,
@@ -2555,7 +2555,7 @@
                 "open_issues": 13,
                 "owner": "plivesey",
                 "repo": "RocketData",
-                "stars": 648,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2607,7 +2607,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-08-15T09:20:08Z",
-                "open_issues": 13,
+                "open_issues": 16,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
                 "stars": 24649,
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-03T00:26:49Z",
-                "open_issues": 286,
+                "last_commit": "2026-09-04T00:13:47Z",
+                "open_issues": 288,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2568,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:43:06.828Z",
+    "last_updated": "2026-09-04T00:26:25.630Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
