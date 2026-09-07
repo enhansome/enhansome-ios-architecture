@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7591,
+                "stars": 7590,
                 "topics": [
                   "redux",
                   "reswift",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5755,
+                "stars": 5753,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1493,7 +1493,7 @@
                 "open_issues": 130,
                 "owner": "Jasonette",
                 "repo": "JASONETTE-iOS",
-                "stars": 5224,
+                "stars": 5223,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1672,7 +1672,7 @@
                 "open_issues": 0,
                 "owner": "justeat",
                 "repo": "ScrollingStackViewController",
-                "stars": 646,
+                "stars": 645,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1799,7 +1799,7 @@
                 "open_issues": 2,
                 "owner": "FluidGroup",
                 "repo": "StackScrollView",
-                "stars": 417,
+                "stars": 416,
                 "topics": [
                   "form",
                   "uicollectionview",
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7935,
+                "stars": 7936,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T05:19:07Z",
+                "last_commit": "2026-09-06T05:21:06Z",
                 "open_issues": 26,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2284,7 +2284,7 @@
                 "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3116,
+                "stars": 3117,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2485,7 +2485,7 @@
                 "open_issues": 12,
                 "owner": "hyperoslo",
                 "repo": "Cache",
-                "stars": 3143,
+                "stars": 3144,
                 "topics": [
                   "cache",
                   "cache-storage",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-05T17:34:56Z",
+                "last_commit": "2026-09-06T22:47:28Z",
                 "open_issues": 290,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2569,
+                "stars": 2570,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:13:45.630Z",
+    "last_updated": "2026-09-07T00:21:52.833Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
