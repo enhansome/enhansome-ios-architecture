@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7590,
+                "stars": 7589,
                 "topics": [
                   "redux",
                   "reswift",
@@ -1417,7 +1417,7 @@
                 "open_issues": 7,
                 "owner": "zwaldowski",
                 "repo": "AdvancedCollectionView",
-                "stars": 179,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13067,
+                "stars": 13066,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T05:21:06Z",
+                "last_commit": "2026-09-07T07:45:38Z",
                 "open_issues": 26,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2485,7 +2485,7 @@
                 "open_issues": 12,
                 "owner": "hyperoslo",
                 "repo": "Cache",
-                "stars": 3144,
+                "stars": 3143,
                 "topics": [
                   "cache",
                   "cache-storage",
@@ -2867,10 +2867,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-06T22:47:28Z",
-                "open_issues": 290,
+                "open_issues": 289,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2570,
+                "stars": 2569,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:21:52.833Z",
+    "last_updated": "2026-09-08T00:41:34.090Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5266,
+      "stars": 5267,
       "topics": [
         "architecture",
         "ios",
