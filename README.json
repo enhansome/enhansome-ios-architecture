@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5753,
+                "stars": 5750,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7936,
+                "stars": 7937,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T07:45:38Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-08T21:13:19Z",
+                "open_issues": 24,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3773,
@@ -2534,7 +2534,7 @@
                 "open_issues": 3,
                 "owner": "casatwy",
                 "repo": "CTPersistance",
-                "stars": 740,
+                "stars": 739,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2610,7 +2610,7 @@
                 "open_issues": 13,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24646,
+                "stars": 24647,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-06T22:47:28Z",
-                "open_issues": 289,
+                "last_commit": "2026-09-08T21:23:34Z",
+                "open_issues": 287,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2569,
@@ -2969,7 +2969,7 @@
                 "open_issues": 9,
                 "owner": "JohnSundell",
                 "repo": "Splash",
-                "stars": 1868,
+                "stars": 1869,
                 "topics": [
                   "command-line-tool",
                   "swift",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:41:34.090Z",
+    "last_updated": "2026-09-09T00:39:41.598Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
