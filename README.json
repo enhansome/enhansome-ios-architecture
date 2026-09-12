@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2393,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13066,
+                "stars": 13067,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7938,
+                "stars": 7940,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T20:40:53Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-11T18:35:37Z",
+                "open_issues": 22,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3773,
@@ -2610,7 +2610,7 @@
                 "open_issues": 14,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24645,
+                "stars": 24644,
                 "topics": [
                   "functional",
                   "ios",
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2393,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-10T23:42:36Z",
-                "open_issues": 292,
+                "last_commit": "2026-09-12T00:13:42Z",
+                "open_issues": 295,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2571,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:34:30.574Z",
+    "last_updated": "2026-09-12T00:40:40.391Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5267,
+      "stars": 5268,
       "topics": [
         "architecture",
         "ios",
