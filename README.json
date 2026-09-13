@@ -386,7 +386,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4104,
+                "stars": 4105,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T18:35:37Z",
+                "last_commit": "2026-09-12T05:22:01Z",
                 "open_issues": 22,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2610,7 +2610,7 @@
                 "open_issues": 14,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24644,
+                "stars": 24645,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-12T00:13:42Z",
-                "open_issues": 295,
+                "last_commit": "2026-09-12T01:03:13Z",
+                "open_issues": 294,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2571,
+                "stars": 2572,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:40:40.391Z",
+    "last_updated": "2026-09-13T00:24:55.538Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
