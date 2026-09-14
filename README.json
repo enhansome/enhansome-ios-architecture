@@ -237,7 +237,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2787,
+                "stars": 2786,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2392,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -619,7 +619,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2787,
+                "stars": 2786,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13067,
+                "stars": 13068,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1599,7 +1599,7 @@
                 "open_issues": 11,
                 "owner": "airbnb",
                 "repo": "epoxy-ios",
-                "stars": 1319,
+                "stars": 1318,
                 "topics": [
                   "ios",
                   "swift",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T05:22:01Z",
+                "last_commit": "2026-09-13T05:21:04Z",
                 "open_issues": 22,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2485,7 +2485,7 @@
                 "open_issues": 12,
                 "owner": "hyperoslo",
                 "repo": "Cache",
-                "stars": 3143,
+                "stars": 3144,
                 "topics": [
                   "cache",
                   "cache-storage",
@@ -2610,7 +2610,7 @@
                 "open_issues": 14,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24645,
+                "stars": 24646,
                 "topics": [
                   "functional",
                   "ios",
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2392,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2870,7 +2870,7 @@
                 "open_issues": 294,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2572,
+                "stars": 2570,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2894,7 +2894,7 @@
                 "open_issues": 7,
                 "owner": "line",
                 "repo": "line-sdk-ios-swift",
-                "stars": 878,
+                "stars": 877,
                 "topics": [
                   "line",
                   "line-login",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:24:55.538Z",
+    "last_updated": "2026-09-14T00:28:28.150Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
