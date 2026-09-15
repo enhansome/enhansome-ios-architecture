@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7589,
+                "stars": 7590,
                 "topics": [
                   "redux",
                   "reswift",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T05:21:04Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-14T19:56:29Z",
+                "open_issues": 21,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3773,
+                "stars": 3774,
                 "topics": [
                   "android",
                   "app",
@@ -2610,7 +2610,7 @@
                 "open_issues": 14,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24646,
+                "stars": 24645,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-12T01:03:13Z",
-                "open_issues": 294,
+                "last_commit": "2026-09-14T21:31:55Z",
+                "open_issues": 291,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2570,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:28:28.150Z",
+    "last_updated": "2026-09-15T00:55:49.176Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
