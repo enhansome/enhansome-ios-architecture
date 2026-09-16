@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2391,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7590,
+                "stars": 7589,
                 "topics": [
                   "redux",
                   "reswift",
@@ -1109,7 +1109,7 @@
                 "open_issues": 29,
                 "owner": "strongself",
                 "repo": "The-Book-of-VIPER",
-                "stars": 960,
+                "stars": 959,
                 "topics": [
                   "architecture",
                   "book",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T19:56:29Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-16T00:37:46Z",
+                "open_issues": 22,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3774,
@@ -2534,7 +2534,7 @@
                 "open_issues": 3,
                 "owner": "casatwy",
                 "repo": "CTPersistance",
-                "stars": 739,
+                "stars": 738,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2607,7 +2607,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-04T18:37:03Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
                 "stars": 24645,
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2391,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2866,7 +2866,7 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-14T21:31:55Z",
+                "last_commit": "2026-09-16T00:31:55Z",
                 "open_issues": 291,
                 "owner": "stripe",
                 "repo": "stripe-ios",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:55:49.176Z",
+    "last_updated": "2026-09-16T00:49:42.808Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
