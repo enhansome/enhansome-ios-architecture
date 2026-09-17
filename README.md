@@ -94,7 +94,7 @@ Model View ViewModel
 ### Repos
 
 * [TheReactiveArchitecture](https://github.com/devxoul/TheReactiveArchitecture) ⭐ 2,786 | 🐛 35 | 🌐 Swift | 📅 2026-05-07 The modern and reactive architecture for RxSwift application
-* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,392 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 iOS framework that helps you implement Model-View-ViewModel-Coordinator architecture.
+* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,393 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 iOS framework that helps you implement Model-View-ViewModel-Coordinator architecture.
 * [Coordinator-MVVM-Rx-Example](https://github.com/uptechteam/Coordinator-MVVM-Rx-Example) ⭐ 564 | 🐛 10 | 🌐 Swift | 📅 2020-03-07 Example of MVVM-C architecture implemented with RxSwift
 * [ModernMVVM](https://github.com/V8tr/ModernMVVM) ⭐ 470 | 🐛 7 | 🌐 Swift | 📅 2020-03-25 - A movie iOS app built with the MVVM architecture, Combine and SwiftUI frameworks
 * [kickstarter vm structure](https://github.com/kickstarter/native-docs/blob/master/vm-structure.md) ⭐ 83 | 🐛 0 | 📅 2022-05-13 Rx input and output
@@ -103,7 +103,7 @@ Model View ViewModel
 
 ### Repos
 
-* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,909 | 🐛 25 | 🌐 Swift | 📅 2026-08-28 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,915 | 🐛 25 | 🌐 Swift | 📅 2026-08-28 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 # Clean Architecture
 
@@ -243,12 +243,12 @@ View Interactor Presenter
 
 ### Repos
 
-* [IGListKit](https://github.com/instagram/IGListKit) ⭐ 13,068 | 🐛 63 | 🌐 Objective-C | 📅 2026-08-19 A data-driven UICollectionView framework for building fast and flexible lists.
+* [IGListKit](https://github.com/instagram/IGListKit) ⭐ 13,067 | 🐛 63 | 🌐 Objective-C | 📅 2026-08-19 A data-driven UICollectionView framework for building fast and flexible lists.
 * [ComponentKit](https://github.com/facebook/componentkit) ⭐ 5,749 | 🐛 27 | 🌐 Objective-C++ | 📅 2024-01-16 A React-inspired view framework for iOS
 * [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) ⭐ 5,224 | 🐛 130 | 🌐 JavaScript | 📅 2022-05-31 Native App over HTTP :star::star::rocket:
 * [AloeStackView](https://github.com/airbnb/AloeStackView) ⭐ 2,813 | 🐛 24 | 🌐 Swift | 📅 2021-08-11 A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout :star:
 * [HubFramework](https://github.com/spotify/HubFramework) ⚠️ Archived Spotify’s component-driven UI framework for iOS
-* [Carbon](https://github.com/ra1028/Carbon) ⭐ 1,357 | 🐛 10 | 🌐 Swift | 📅 2024-07-13 A declarative library for building component-based user interfaces in UITableView and UICollectionView
+* [Carbon](https://github.com/ra1028/Carbon) ⭐ 1,356 | 🐛 10 | 🌐 Swift | 📅 2024-07-13 A declarative library for building component-based user interfaces in UITableView and UICollectionView
 * [Epoxy](https://github.com/airbnb/epoxy-ios) ⭐ 1,318 | 🐛 11 | 🌐 Swift | 📅 2026-07-24 - Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift
 * [Static](https://github.com/venmo/Static) ⭐ 1,245 | 🐛 21 | 🌐 Swift | 📅 2021-10-22 Simple static table views for iOS in Swift.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit) ⚠️ Archived Type-safe, value-oriented, composable data source objects that keep your view controllers light
@@ -369,10 +369,10 @@ View Interactor Presenter
 ### Repos
 
 * [RIBs](https://github.com/uber/RIBs) ⭐ 7,940 | 🐛 119 | 🌐 Kotlin | 📅 2026-07-15 Uber's cross-platform mobile architecture framework.
-* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,774 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-16 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
+* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,774 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-16 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
 * [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,116 | 🐛 27 | 🌐 Swift | 📅 2026-02-15 GitHub iOS client in RxSwift and MVVM-C clean architecture
 * [ios-architecture](https://github.com/tailec/ios-architecture) ⭐ 1,524 | 🐛 4 | 🌐 Swift | 📅 2022-05-16 A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
-* [Flint](https://github.com/MontanaFlossCo/Flint) ⭐ 623 | 🐛 73 | 🌐 Swift | 📅 2023-08-01 The Flint framework for building apps on Apple platforms using Feature Driven Development
+* [Flint](https://github.com/MontanaFlossCo/Flint) ⭐ 622 | 🐛 73 | 🌐 Swift | 📅 2023-08-01 The Flint framework for building apps on Apple platforms using Feature Driven Development
 * [Alicerce](https://github.com/Mindera/Alicerce) ⭐ 466 | 🐛 3 | 🌐 Swift | 📅 2025-07-31 A base for iOS Applications by Mindera
 * [Delta](https://github.com/thoughtbot/Delta) ⚠️ Archived Delta takes an app that has custom state management spread throughout all the VCs and simplifies it by providing a simple interface to change state and subscribe to its changes.
 * [Logician](https://github.com/mdiep/Logician) ⭐ 200 | 🐛 6 | 🌐 Swift | 📅 2020-05-17 Logic programming in Swift
@@ -402,7 +402,7 @@ View Interactor Presenter
 
 ### Asynchronous/Reactive Programming
 
-* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,645 | 🐛 15 | 🌐 Swift | 📅 2026-09-04 Reactive Programming in Swift
+* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,643 | 🐛 15 | 🌐 Swift | 📅 2026-09-04 Reactive Programming in Swift
 * [Operations](https://github.com/danthorpe/Operations) ⭐ 890 | 🐛 66 | 🌐 Swift | 📅 2022-12-08 A Swift framework inspired by WWDC 2015 Advanced NSOperations session.
 * [TheBinderArchitecture](https://github.com/DeclarativeHub/TheBinderArchitecture) ⭐ 153 | 🐛 7 | 📅 2019-10-14 A declarative architecture based on bindings
 * [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
@@ -413,7 +413,7 @@ View Interactor Presenter
 
 ### Navigation/Coordinator/FlowController
 
-* [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) ⭐ 2,392 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Powerful navigation library for iOS based on the coordinator pattern
+* [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) ⭐ 2,393 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Powerful navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,911 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 * [Compass](https://github.com/hyperoslo/Compass) ⭐ 821 | 🐛 6 | 🌐 Swift | 📅 2020-11-19 Compass helps you setup a central navigation system for your application
 * [URL Routing with Compass](https://github.com/onmyway133/blog/issues/110) ⭐ 702 | 🐛 1,009 | 📅 2026-02-25 :star:
@@ -451,7 +451,7 @@ View Interactor Presenter
 
 ### SDK
 
-* [stripe-ios](https://github.com/stripe/stripe-ios) ⭐ 2,570 | 🐛 291 | 🌐 Swift | 📅 2026-09-16 Stripe iOS SDK
+* [stripe-ios](https://github.com/stripe/stripe-ios) ⭐ 2,569 | 🐛 304 | 🌐 Swift | 📅 2026-09-16 Stripe iOS SDK
 * [line-sdk-ios-swift](https://github.com/line/line-sdk-ios-swift) ⭐ 877 | 🐛 7 | 🌐 Swift | 📅 2026-07-24 Provides a modern way of implementing LINE APIs
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) ⚠️ Archived Swift framework for authenticating with the Spotify API
 * [BackchannelSDK-iOS](https://github.com/backchannel/BackchannelSDK-iOS) ⭐ 233 | 🐛 1 | 🌐 Objective-C | 📅 2016-11-29 The official iOS SDK for Backchannel
@@ -515,8 +515,8 @@ View Interactor Presenter
 
 ## Licence
 
-This project is released under the MIT license. See [LICENSE.md.](https://github.com/onmyway133/awesome-ios-architecture/blob/master/LICENSE) ⭐ 5,268 | 🐛 2 | 📅 2023-11-29
+This project is released under the MIT license. See [LICENSE.md.](https://github.com/onmyway133/awesome-ios-architecture/blob/master/LICENSE) ⭐ 5,267 | 🐛 2 | 📅 2023-11-29
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
