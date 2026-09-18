@@ -415,7 +415,7 @@
                 "open_issues": 25,
                 "owner": "Clean-Swift",
                 "repo": "CleanStore",
-                "stars": 1922,
+                "stars": 1921,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -647,7 +647,7 @@
                 "open_issues": 0,
                 "owner": "BendingSpoons",
                 "repo": "katana-swift",
-                "stars": 2233,
+                "stars": 2232,
                 "topics": [
                   "ios",
                   "katana",
@@ -1109,7 +1109,7 @@
                 "open_issues": 29,
                 "owner": "strongself",
                 "repo": "The-Book-of-VIPER",
-                "stars": 959,
+                "stars": 958,
                 "topics": [
                   "architecture",
                   "book",
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7940,
+                "stars": 7941,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T21:11:22Z",
+                "last_commit": "2026-09-17T21:24:23Z",
                 "open_issues": 24,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3774,
+                "stars": 3775,
                 "topics": [
                   "android",
                   "app",
@@ -2610,7 +2610,7 @@
                 "open_issues": 15,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24643,
+                "stars": 24641,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-16T22:57:41Z",
-                "open_issues": 304,
+                "last_commit": "2026-09-17T19:43:49Z",
+                "open_issues": 314,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2569,
+                "stars": 2571,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T00:53:54.036Z",
+    "last_updated": "2026-09-18T00:47:52.825Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
