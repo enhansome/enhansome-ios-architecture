@@ -237,7 +237,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2786,
+                "stars": 2785,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2393,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -298,7 +298,7 @@
                 "open_issues": 10,
                 "owner": "uptechteam",
                 "repo": "Coordinator-MVVM-Rx-Example",
-                "stars": 564,
+                "stars": 563,
                 "topics": [
                   "architecture",
                   "coordinator",
@@ -415,7 +415,7 @@
                 "open_issues": 25,
                 "owner": "Clean-Swift",
                 "repo": "CleanStore",
-                "stars": 1921,
+                "stars": 1920,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -507,7 +507,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2150,
+                "stars": 2148,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7589,
+                "stars": 7588,
                 "topics": [
                   "redux",
                   "reswift",
@@ -619,7 +619,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2786,
+                "stars": 2785,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -647,7 +647,7 @@
                 "open_issues": 0,
                 "owner": "BendingSpoons",
                 "repo": "katana-swift",
-                "stars": 2232,
+                "stars": 2231,
                 "topics": [
                   "ios",
                   "katana",
@@ -674,7 +674,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2150,
+                "stars": 2148,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -1319,7 +1319,7 @@
                 "open_issues": 24,
                 "owner": "johnpatrickmorgan",
                 "repo": "FlowStacks",
-                "stars": 970,
+                "stars": 969,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13067,
+                "stars": 13066,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5749,
+                "stars": 5748,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1493,7 +1493,7 @@
                 "open_issues": 130,
                 "owner": "Jasonette",
                 "repo": "JASONETTE-iOS",
-                "stars": 5224,
+                "stars": 5223,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1514,7 +1514,7 @@
                 "open_issues": 24,
                 "owner": "marlimox",
                 "repo": "AloeStackView",
-                "stars": 2813,
+                "stars": 2812,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1535,7 +1535,7 @@
                 "open_issues": 11,
                 "owner": "spotify",
                 "repo": "HubFramework",
-                "stars": 1891,
+                "stars": 1890,
                 "topics": [
                   "component-driven",
                   "hub-framework",
@@ -1742,7 +1742,7 @@
                 "open_issues": 13,
                 "owner": "malcommac",
                 "repo": "Owl",
-                "stars": 427,
+                "stars": 426,
                 "topics": [
                   "ios-swift",
                   "swift",
@@ -1851,7 +1851,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2025-08-07T14:57:28Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "Shopify",
                 "repo": "FunctionalTableData",
                 "stars": 370,
@@ -1883,7 +1883,7 @@
                 "open_issues": 0,
                 "owner": "scribd",
                 "repo": "LiveCollections",
-                "stars": 339,
+                "stars": 338,
                 "topics": [
                   "animation",
                   "animations",
@@ -1939,7 +1939,7 @@
                 "open_issues": 17,
                 "owner": "plangrid",
                 "repo": "ReactiveLists",
-                "stars": 253,
+                "stars": 254,
                 "topics": [
                   "collectionview",
                   "declarative-ui",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T21:24:23Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-18T16:00:01Z",
+                "open_issues": 25,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775,
@@ -2284,7 +2284,7 @@
                 "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3116,
+                "stars": 3115,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2555,7 +2555,7 @@
                 "open_issues": 13,
                 "owner": "plivesey",
                 "repo": "RocketData",
-                "stars": 647,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2610,7 +2610,7 @@
                 "open_issues": 15,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24641,
+                "stars": 24640,
                 "topics": [
                   "functional",
                   "ios",
@@ -2670,7 +2670,7 @@
                 "open_issues": 7,
                 "owner": "DeclarativeHub",
                 "repo": "TheBinderArchitecture",
-                "stars": 153,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2393,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2731,7 +2731,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1911,
+                "stars": 1910,
                 "topics": [
                   "coordinator",
                   "flow",
@@ -2758,7 +2758,7 @@
                 "open_issues": 6,
                 "owner": "hyperoslo",
                 "repo": "Compass",
-                "stars": 821,
+                "stars": 819,
                 "topics": [
                   "compass",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-17T19:43:49Z",
-                "open_issues": 314,
+                "last_commit": "2026-09-18T23:52:44Z",
+                "open_issues": 311,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2571,
+                "stars": 2569,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2894,7 +2894,7 @@
                 "open_issues": 7,
                 "owner": "line",
                 "repo": "line-sdk-ios-swift",
-                "stars": 877,
+                "stars": 876,
                 "topics": [
                   "line",
                   "line-login",
@@ -2941,7 +2941,7 @@
                 "open_issues": 1,
                 "owner": "backchannel",
                 "repo": "BackchannelSDK-iOS",
-                "stars": 233,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:47:52.825Z",
+    "last_updated": "2026-09-19T00:39:27.181Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5267,
+      "stars": 5266,
       "topics": [
         "architecture",
         "ios",
