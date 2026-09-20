@@ -386,7 +386,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4105,
+                "stars": 4104,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -1599,7 +1599,7 @@
                 "open_issues": 11,
                 "owner": "airbnb",
                 "repo": "epoxy-ios",
-                "stars": 1318,
+                "stars": 1317,
                 "topics": [
                   "ios",
                   "swift",
@@ -2191,7 +2191,7 @@
                 "open_issues": 1009,
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 702,
+                "stars": 701,
                 "topics": [
                   "blog",
                   "markdown"
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T16:00:01Z",
+                "last_commit": "2026-09-19T05:20:10Z",
                 "open_issues": 25,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2610,7 +2610,7 @@
                 "open_issues": 15,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24640,
+                "stars": 24639,
                 "topics": [
                   "functional",
                   "ios",
@@ -2786,7 +2786,7 @@
                 "open_issues": 1009,
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 702,
+                "stars": 701,
                 "topics": [
                   "blog",
                   "markdown"
@@ -2810,7 +2810,7 @@
                 "open_issues": 1009,
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 702,
+                "stars": 701,
                 "topics": [
                   "blog",
                   "markdown"
@@ -2867,7 +2867,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-18T23:52:44Z",
-                "open_issues": 311,
+                "open_issues": 312,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2569,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:39:27.181Z",
+    "last_updated": "2026-09-20T00:25:25.289Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
