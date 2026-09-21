@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2392,
+                "stars": 2393,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -1714,7 +1714,7 @@
                 "open_issues": 0,
                 "owner": "DenTelezhkin",
                 "repo": "DTTableViewManager",
-                "stars": 452,
+                "stars": 451,
                 "topics": [
                   "datasource",
                   "delegate",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T05:20:10Z",
+                "last_commit": "2026-09-20T05:19:34Z",
                 "open_issues": 25,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2610,7 +2610,7 @@
                 "open_issues": 15,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24639,
+                "stars": 24638,
                 "topics": [
                   "functional",
                   "ios",
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2392,
+                "stars": 2393,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2870,7 +2870,7 @@
                 "open_issues": 312,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2569,
+                "stars": 2568,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:25:25.289Z",
+    "last_updated": "2026-09-21T00:30:59.398Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
