@@ -1340,7 +1340,7 @@
                 "open_issues": 44,
                 "owner": "rundfunk47",
                 "repo": "stinsen",
-                "stars": 955,
+                "stars": 954,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T20:32:18Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-22T22:05:44Z",
+                "open_issues": 26,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3775,
+                "stars": 3774,
                 "topics": [
                   "android",
                   "app",
@@ -2607,7 +2607,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-04T18:37:03Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
                 "stars": 24639,
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-22T00:02:14Z",
-                "open_issues": 319,
+                "last_commit": "2026-09-22T23:26:11Z",
+                "open_issues": 323,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2568,
@@ -2969,7 +2969,7 @@
                 "open_issues": 9,
                 "owner": "JohnSundell",
                 "repo": "Splash",
-                "stars": 1870,
+                "stars": 1871,
                 "topics": [
                   "command-line-tool",
                   "swift",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:12:35.361Z",
+    "last_updated": "2026-09-23T00:57:04.097Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
