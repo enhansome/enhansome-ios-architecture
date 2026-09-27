@@ -237,7 +237,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2785,
+                "stars": 2784,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -619,7 +619,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2785,
+                "stars": 2784,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13069,
+                "stars": 13068,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T15:48:37Z",
+                "last_commit": "2026-09-26T10:45:27Z",
                 "open_issues": 31,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2610,7 +2610,7 @@
                 "open_issues": 16,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24639,
+                "stars": 24640,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-26T00:14:36Z",
+                "last_commit": "2026-09-26T05:58:57Z",
                 "open_issues": 323,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2569,
+                "stars": 2570,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:54:27.798Z",
+    "last_updated": "2026-09-27T00:54:28.684Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
