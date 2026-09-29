@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "rajagp",
                 "repo": "iOS_MVC_MVP_MVVM_SampleApp",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -298,7 +298,7 @@
                 "open_issues": 10,
                 "owner": "uptechteam",
                 "repo": "Coordinator-MVVM-Rx-Example",
-                "stars": 563,
+                "stars": 564,
                 "topics": [
                   "architecture",
                   "coordinator",
@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7588,
+                "stars": 7587,
                 "topics": [
                   "redux",
                   "reswift",
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13068,
+                "stars": 13070,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -2188,10 +2188,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-02-25T18:09:27Z",
-                "open_issues": 1011,
+                "open_issues": 1015,
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 701,
+                "stars": 700,
                 "topics": [
                   "blog",
                   "markdown"
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T20:54:08Z",
+                "last_commit": "2026-09-29T01:24:33Z",
                 "open_issues": 31,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3775,
+                "stars": 3776,
                 "topics": [
                   "android",
                   "app",
@@ -2284,7 +2284,7 @@
                 "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3113,
+                "stars": 3114,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2610,7 +2610,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24640,
+                "stars": 24637,
                 "topics": [
                   "functional",
                   "ios",
@@ -2783,10 +2783,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-02-25T18:09:27Z",
-                "open_issues": 1011,
+                "open_issues": 1015,
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 701,
+                "stars": 700,
                 "topics": [
                   "blog",
                   "markdown"
@@ -2807,10 +2807,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-02-25T18:09:27Z",
-                "open_issues": 1011,
+                "open_issues": 1015,
                 "owner": "onmyway133",
                 "repo": "blog",
-                "stars": 701,
+                "stars": 700,
                 "topics": [
                   "blog",
                   "markdown"
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-26T05:58:57Z",
-                "open_issues": 323,
+                "last_commit": "2026-09-29T00:24:49Z",
+                "open_issues": 314,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2570,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:13:10.721Z",
+    "last_updated": "2026-09-29T02:19:40.639Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
