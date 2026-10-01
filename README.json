@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2392,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -386,7 +386,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4103,
+                "stars": 4102,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -507,7 +507,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2148,
+                "stars": 2149,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7587,
+                "stars": 7586,
                 "topics": [
                   "redux",
                   "reswift",
@@ -674,7 +674,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2148,
+                "stars": 2149,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -778,7 +778,7 @@
                 "id": 127492366,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T19:23:26Z",
+                "last_commit": "2026-09-30T22:56:16Z",
                 "open_issues": 1,
                 "owner": "SwiftRex",
                 "repo": "SwiftRex",
@@ -1319,7 +1319,7 @@
                 "open_issues": 24,
                 "owner": "johnpatrickmorgan",
                 "repo": "FlowStacks",
-                "stars": 969,
+                "stars": 970,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1376,7 +1376,7 @@
                 "open_issues": 3,
                 "owner": "inamiy",
                 "repo": "Harvest",
-                "stars": 381,
+                "stars": 380,
                 "topics": [
                   "automaton",
                   "combine-framework",
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13071,
+                "stars": 13073,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1493,7 +1493,7 @@
                 "open_issues": 130,
                 "owner": "Jasonette",
                 "repo": "JASONETTE-iOS",
-                "stars": 5220,
+                "stars": 5221,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1514,7 +1514,7 @@
                 "open_issues": 24,
                 "owner": "marlimox",
                 "repo": "AloeStackView",
-                "stars": 2812,
+                "stars": 2811,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1562,7 +1562,7 @@
                 "open_issues": 10,
                 "owner": "ra1028",
                 "repo": "Carbon",
-                "stars": 1355,
+                "stars": 1354,
                 "topics": [
                   "component",
                   "datasource",
@@ -1595,11 +1595,11 @@
                 "id": 152341224,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-24T19:29:56Z",
+                "last_commit": "2026-09-30T22:21:39Z",
                 "open_issues": 12,
                 "owner": "airbnb",
                 "repo": "epoxy-ios",
-                "stars": 1317,
+                "stars": 1316,
                 "topics": [
                   "ios",
                   "swift",
@@ -1854,7 +1854,7 @@
                 "open_issues": 13,
                 "owner": "Shopify",
                 "repo": "FunctionalTableData",
-                "stars": 371,
+                "stars": 370,
                 "topics": [
                   "declarative",
                   "functional-programming",
@@ -2188,7 +2188,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-02-25T18:09:27Z",
-                "open_issues": 1015,
+                "open_issues": 1018,
                 "owner": "onmyway133",
                 "repo": "blog",
                 "stars": 700,
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7940,
+                "stars": 7939,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T01:14:30Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-30T21:30:54Z",
+                "open_issues": 25,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3777,
+                "stars": 3774,
                 "topics": [
                   "android",
                   "app",
@@ -2284,7 +2284,7 @@
                 "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3114,
+                "stars": 3113,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2485,7 +2485,7 @@
                 "open_issues": 12,
                 "owner": "hyperoslo",
                 "repo": "Cache",
-                "stars": 3144,
+                "stars": 3143,
                 "topics": [
                   "cache",
                   "cache-storage",
@@ -2610,7 +2610,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24637,
+                "stars": 24634,
                 "topics": [
                   "functional",
                   "ios",
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2392,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2783,7 +2783,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-02-25T18:09:27Z",
-                "open_issues": 1015,
+                "open_issues": 1018,
                 "owner": "onmyway133",
                 "repo": "blog",
                 "stars": 700,
@@ -2807,7 +2807,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-02-25T18:09:27Z",
-                "open_issues": 1015,
+                "open_issues": 1018,
                 "owner": "onmyway133",
                 "repo": "blog",
                 "stars": 700,
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-30T00:36:21Z",
-                "open_issues": 319,
+                "last_commit": "2026-09-30T23:13:15Z",
+                "open_issues": 318,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2570,
+                "stars": 2569,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:37:18.553Z",
+    "last_updated": "2026-10-01T01:35:44.175Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5266,
+      "stars": 5265,
       "topics": [
         "architecture",
         "ios",
