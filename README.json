@@ -778,8 +778,8 @@
                 "id": 127492366,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T22:56:16Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-01T19:42:43Z",
+                "open_issues": 0,
                 "owner": "SwiftRex",
                 "repo": "SwiftRex",
                 "stars": 619,
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13073,
+                "stars": 13072,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5748,
+                "stars": 5747,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1535,7 +1535,7 @@
                 "open_issues": 11,
                 "owner": "spotify",
                 "repo": "HubFramework",
-                "stars": 1890,
+                "stars": 1886,
                 "topics": [
                   "component-driven",
                   "hub-framework",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T21:30:54Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-01T16:13:23Z",
+                "open_issues": 24,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3774,
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-30T23:13:15Z",
-                "open_issues": 318,
+                "last_commit": "2026-10-02T00:36:19Z",
+                "open_issues": 330,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2569,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:35:44.175Z",
+    "last_updated": "2026-10-02T01:49:27.192Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5265,
+      "stars": 5267,
       "topics": [
         "architecture",
         "ios",
