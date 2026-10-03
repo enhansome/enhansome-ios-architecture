@@ -237,7 +237,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2783,
+                "stars": 2784,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2391,
+                "stars": 2389,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -507,7 +507,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2149,
+                "stars": 2148,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -619,7 +619,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2783,
+                "stars": 2784,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -674,7 +674,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2149,
+                "stars": 2148,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13072,
+                "stars": 13071,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T16:13:23Z",
+                "last_commit": "2026-10-02T09:21:55Z",
                 "open_issues": 24,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3774,
+                "stars": 3775,
                 "topics": [
                   "android",
                   "app",
@@ -2350,7 +2350,7 @@
                 "open_issues": 73,
                 "owner": "MontanaFlossCo",
                 "repo": "Flint",
-                "stars": 622,
+                "stars": 621,
                 "topics": [
                   "appframework-library",
                   "apple",
@@ -2485,7 +2485,7 @@
                 "open_issues": 12,
                 "owner": "hyperoslo",
                 "repo": "Cache",
-                "stars": 3143,
+                "stars": 3141,
                 "topics": [
                   "cache",
                   "cache-storage",
@@ -2610,7 +2610,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24634,
+                "stars": 24632,
                 "topics": [
                   "functional",
                   "ios",
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2391,
+                "stars": 2389,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-02T00:36:19Z",
-                "open_issues": 330,
+                "last_commit": "2026-10-03T00:16:42Z",
+                "open_issues": 334,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2569,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:49:27.192Z",
+    "last_updated": "2026-10-03T01:28:22.124Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
