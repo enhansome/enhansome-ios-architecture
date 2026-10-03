@@ -103,7 +103,7 @@ Model View ViewModel
 
 ### Repos
 
-* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,946 | 🐛 24 | 🌐 Swift | 📅 2026-09-18 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,948 | 🐛 24 | 🌐 Swift | 📅 2026-09-18 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 # Clean Architecture
 
@@ -451,7 +451,7 @@ View Interactor Presenter
 
 ### SDK
 
-* [stripe-ios](https://github.com/stripe/stripe-ios) ⭐ 2,569 | 🐛 334 | 🌐 Swift | 📅 2026-10-03 Stripe iOS SDK
+* [stripe-ios](https://github.com/stripe/stripe-ios) ⭐ 2,569 | 🐛 335 | 🌐 Swift | 📅 2026-10-03 Stripe iOS SDK
 * [line-sdk-ios-swift](https://github.com/line/line-sdk-ios-swift) ⭐ 876 | 🐛 7 | 🌐 Swift | 📅 2026-07-24 Provides a modern way of implementing LINE APIs
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) ⚠️ Archived Swift framework for authenticating with the Spotify API
 * [BackchannelSDK-iOS](https://github.com/backchannel/BackchannelSDK-iOS) ⭐ 232 | 🐛 1 | 🌐 Objective-C | 📅 2016-11-29 The official iOS SDK for Backchannel
@@ -515,7 +515,7 @@ View Interactor Presenter
 
 ## Licence
 
-This project is released under the MIT license. See [LICENSE.md.](https://github.com/onmyway133/awesome-ios-architecture/blob/master/LICENSE) ⭐ 5,267 | 🐛 2 | 📅 2023-11-29
+This project is released under the MIT license. See [LICENSE.md.](https://github.com/onmyway133/awesome-ios-architecture/blob/master/LICENSE)
 
 ***
 

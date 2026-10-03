@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "ios-mvp-clean-architecture",
-              "description": null,
+              "description": "FortechRomania/ios-mvp-clean-architecture",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "iOS_MVC_MVP_MVVM_SampleApp",
-              "description": null,
+              "description": "rajagp/iOS_MVC_MVP_MVVM_SampleApp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -57,7 +57,7 @@
             {
               "node_type": "item",
               "title": "MVP-iOS",
-              "description": null,
+              "description": "baoshanf/MVP-iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "MVPExample",
-              "description": null,
+              "description": "amacou/MVPExample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "AppDemo",
-              "description": null,
+              "description": "SSamanta/AppDemo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -120,7 +120,7 @@
             {
               "node_type": "item",
               "title": "foodMVP",
-              "description": null,
+              "description": "voghDev/foodMVP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -141,7 +141,7 @@
             {
               "node_type": "item",
               "title": "MVP-iOS",
-              "description": null,
+              "description": "Quaggie/MVP-iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -162,7 +162,7 @@
             {
               "node_type": "item",
               "title": "MVP",
-              "description": null,
+              "description": "shuilinok/MVP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1096,7 +1096,7 @@
             {
               "node_type": "item",
               "title": "Introduction to VIPER",
-              "description": null,
+              "description": "strongself/The-Book-of-VIPER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1121,7 +1121,7 @@
             {
               "node_type": "item",
               "title": "Viper Framework for iOS using Swift v3",
-              "description": null,
+              "description": "ferranabello/Viperit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1404,7 +1404,7 @@
             {
               "node_type": "item",
               "title": "AdvancedCollectionView",
-              "description": null,
+              "description": "zwaldowski/AdvancedCollectionView",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1870,7 +1870,7 @@
             {
               "node_type": "item",
               "title": "LiveCollections",
-              "description": null,
+              "description": "scribd/LiveCollections",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2178,7 +2178,7 @@
             {
               "node_type": "item",
               "title": "UITableViewCell and Model",
-              "description": null,
+              "description": "onmyway133/blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2500,7 +2500,7 @@
             {
               "node_type": "item",
               "title": "Pantry",
-              "description": null,
+              "description": "nickoneill/Pantry",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2521,7 +2521,7 @@
             {
               "node_type": "item",
               "title": "CTPersistance",
-              "description": null,
+              "description": "casatwy/CTPersistance",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2542,7 +2542,7 @@
             {
               "node_type": "item",
               "title": "RocketData",
-              "description": null,
+              "description": "plivesey/RocketData",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2563,7 +2563,7 @@
             {
               "node_type": "item",
               "title": "JustPersist",
-              "description": null,
+              "description": "justeat/JustPersist",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2797,7 +2797,7 @@
             {
               "node_type": "item",
               "title": "Coordinator and FlowController",
-              "description": null,
+              "description": "onmyway133/blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:16:42Z",
-                "open_issues": 334,
+                "last_commit": "2026-10-03T04:34:25Z",
+                "open_issues": 335,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2569,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:28:22.124Z",
+    "last_updated": "2026-10-03T04:52:31.164Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
