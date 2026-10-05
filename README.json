@@ -1340,7 +1340,7 @@
                 "open_issues": 44,
                 "owner": "rundfunk47",
                 "repo": "stinsen",
-                "stars": 954,
+                "stars": 953,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13071,
+                "stars": 13070,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T05:22:53Z",
+                "last_commit": "2026-10-04T07:03:41Z",
                 "open_issues": 24,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2610,7 +2610,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24632,
+                "stars": 24633,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-03T23:58:31Z",
-                "open_issues": 336,
+                "last_commit": "2026-10-05T01:08:47Z",
+                "open_issues": 338,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2570,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:00:01.959Z",
+    "last_updated": "2026-10-05T01:17:43.588Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
