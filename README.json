@@ -386,7 +386,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4102,
+                "stars": 4101,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7585,
+                "stars": 7584,
                 "topics": [
                   "redux",
                   "reswift",
@@ -1514,7 +1514,7 @@
                 "open_issues": 24,
                 "owner": "marlimox",
                 "repo": "AloeStackView",
-                "stars": 2811,
+                "stars": 2812,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T09:50:48Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-06T22:12:44Z",
+                "open_issues": 27,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3774,
@@ -2318,7 +2318,7 @@
                 "open_issues": 4,
                 "owner": "tailec",
                 "repo": "ios-architecture",
-                "stars": 1524,
+                "stars": 1523,
                 "topics": [
                   "architecture",
                   "ios",
@@ -2485,7 +2485,7 @@
                 "open_issues": 12,
                 "owner": "hyperoslo",
                 "repo": "Cache",
-                "stars": 3141,
+                "stars": 3140,
                 "topics": [
                   "cache",
                   "cache-storage",
@@ -2610,7 +2610,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24633,
+                "stars": 24630,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:17:48Z",
-                "open_issues": 342,
+                "last_commit": "2026-10-07T00:53:49Z",
+                "open_issues": 336,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2571,
+                "stars": 2572,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:40:02.900Z",
+    "last_updated": "2026-10-07T01:49:32.646Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5268,
+      "stars": 5266,
       "topics": [
         "architecture",
         "ios",
