@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7584,
+                "stars": 7583,
                 "topics": [
                   "redux",
                   "reswift",
@@ -1319,7 +1319,7 @@
                 "open_issues": 24,
                 "owner": "johnpatrickmorgan",
                 "repo": "FlowStacks",
-                "stars": 970,
+                "stars": 969,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1340,7 +1340,7 @@
                 "open_issues": 44,
                 "owner": "rundfunk47",
                 "repo": "stinsen",
-                "stars": 953,
+                "stars": 952,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13071,
+                "stars": 13070,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5747,
+                "stars": 5745,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2218,11 +2218,11 @@
                 "id": 105686726,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T17:36:12Z",
+                "last_commit": "2026-10-07T17:08:48Z",
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7940,
+                "stars": 7942,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T22:12:44Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-07T17:14:11Z",
+                "open_issues": 26,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3774,
+                "stars": 3776,
                 "topics": [
                   "android",
                   "app",
@@ -2284,7 +2284,7 @@
                 "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3114,
+                "stars": 3115,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2731,7 +2731,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1909,
+                "stars": 1910,
                 "topics": [
                   "coordinator",
                   "flow",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-07T00:53:49Z",
-                "open_issues": 336,
+                "last_commit": "2026-10-08T01:12:54Z",
+                "open_issues": 331,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2572,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:49:32.646Z",
+    "last_updated": "2026-10-08T02:17:15.522Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
