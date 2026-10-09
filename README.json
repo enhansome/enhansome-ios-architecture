@@ -507,7 +507,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2148,
+                "stars": 2147,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -674,7 +674,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2148,
+                "stars": 2147,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -706,7 +706,7 @@
                 "open_issues": 14,
                 "owner": "joshaber",
                 "repo": "Few.swift",
-                "stars": 1074,
+                "stars": 1073,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13070,
+                "stars": 13072,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1825,7 +1825,7 @@
                 "open_issues": 7,
                 "owner": "babylonhealth",
                 "repo": "Bento",
-                "stars": 371,
+                "stars": 370,
                 "topics": [
                   "declarative",
                   "diff",
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7942,
+                "stars": 7941,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T17:14:11Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-08T17:26:06Z",
+                "open_issues": 27,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3776,
+                "stars": 3778,
                 "topics": [
                   "android",
                   "app",
@@ -2610,7 +2610,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24630,
+                "stars": 24632,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-08T01:12:54Z",
-                "open_issues": 331,
+                "last_commit": "2026-10-09T02:31:53Z",
+                "open_issues": 328,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2572,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:17:15.522Z",
+    "last_updated": "2026-10-09T02:34:54.120Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5266,
+      "stars": 5265,
       "topics": [
         "architecture",
         "ios",
