@@ -237,7 +237,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2784,
+                "stars": 2785,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2389,
+                "stars": 2390,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -619,7 +619,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2784,
+                "stars": 2785,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -782,7 +782,7 @@
                 "open_issues": 0,
                 "owner": "SwiftRex",
                 "repo": "SwiftRex",
-                "stars": 619,
+                "stars": 620,
                 "topics": [
                   "apple",
                   "combine",
@@ -1134,7 +1134,7 @@
                 "open_issues": 5,
                 "owner": "ferranabello",
                 "repo": "Viperit",
-                "stars": 513,
+                "stars": 512,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5745,
+                "stars": 5744,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1647,7 +1647,7 @@
                 "open_issues": 0,
                 "owner": "jessesquires",
                 "repo": "JSQDataSourcesKit",
-                "stars": 677,
+                "stars": 676,
                 "topics": [
                   "datasource",
                   "ios",
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7941,
+                "stars": 7942,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T17:26:06Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-09T23:42:54Z",
+                "open_issues": 28,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3778,
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2389,
+                "stars": 2390,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-09T02:31:53Z",
-                "open_issues": 328,
+                "last_commit": "2026-10-09T23:25:53Z",
+                "open_issues": 312,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2572,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:34:54.120Z",
+    "last_updated": "2026-10-10T01:55:40.544Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
