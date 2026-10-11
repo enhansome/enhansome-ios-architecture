@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "FortechRomania",
                 "repo": "ios-mvp-clean-architecture",
-                "stars": 764,
+                "stars": 763,
                 "topics": [
                   "clean-architecture",
                   "ios",
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13072,
+                "stars": 13073,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1799,7 +1799,7 @@
                 "open_issues": 2,
                 "owner": "FluidGroup",
                 "repo": "StackScrollView",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "form",
                   "uicollectionview",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T23:42:54Z",
+                "last_commit": "2026-10-10T07:12:45Z",
                 "open_issues": 28,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3778,
+                "stars": 3779,
                 "topics": [
                   "android",
                   "app",
@@ -2485,7 +2485,7 @@
                 "open_issues": 12,
                 "owner": "hyperoslo",
                 "repo": "Cache",
-                "stars": 3140,
+                "stars": 3139,
                 "topics": [
                   "cache",
                   "cache-storage",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-09T23:25:53Z",
-                "open_issues": 312,
+                "last_commit": "2026-10-10T23:11:17Z",
+                "open_issues": 313,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2572,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:55:40.544Z",
+    "last_updated": "2026-10-11T01:17:05.199Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
