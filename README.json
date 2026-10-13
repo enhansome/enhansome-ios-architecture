@@ -237,7 +237,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2785,
+                "stars": 2788,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -386,7 +386,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4100,
+                "stars": 4099,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7583,
+                "stars": 7582,
                 "topics": [
                   "redux",
                   "reswift",
@@ -619,7 +619,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2785,
+                "stars": 2788,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -727,7 +727,7 @@
                 "open_issues": 18,
                 "owner": "NoTests",
                 "repo": "RxFeedback.swift",
-                "stars": 1018,
+                "stars": 1017,
                 "topics": [
                   "architecture",
                   "feedback-loop",
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13073,
+                "stars": 13072,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5743,
+                "stars": 5744,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1514,7 +1514,7 @@
                 "open_issues": 24,
                 "owner": "marlimox",
                 "repo": "AloeStackView",
-                "stars": 2812,
+                "stars": 2811,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1599,7 +1599,7 @@
                 "open_issues": 12,
                 "owner": "airbnb",
                 "repo": "epoxy-ios",
-                "stars": 1316,
+                "stars": 1317,
                 "topics": [
                   "ios",
                   "swift",
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7942,
+                "stars": 7941,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T05:21:59Z",
+                "last_commit": "2026-10-12T18:24:53Z",
                 "open_issues": 28,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2610,7 +2610,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24633,
+                "stars": 24631,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-10T23:11:17Z",
-                "open_issues": 313,
+                "last_commit": "2026-10-13T03:10:15Z",
+                "open_issues": 308,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2571,
+                "stars": 2572,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:48:27.284Z",
+    "last_updated": "2026-10-13T03:11:49.116Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
