@@ -415,7 +415,7 @@
                 "open_issues": 25,
                 "owner": "Clean-Swift",
                 "repo": "CleanStore",
-                "stars": 1921,
+                "stars": 1920,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -883,7 +883,7 @@
                 "open_issues": 0,
                 "owner": "chriseidhof",
                 "repo": "tea-in-swift",
-                "stars": 410,
+                "stars": 411,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1319,7 +1319,7 @@
                 "open_issues": 24,
                 "owner": "johnpatrickmorgan",
                 "repo": "FlowStacks",
-                "stars": 969,
+                "stars": 970,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1340,7 +1340,7 @@
                 "open_issues": 44,
                 "owner": "rundfunk47",
                 "repo": "stinsen",
-                "stars": 952,
+                "stars": 953,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5744,
+                "stars": 5745,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1514,7 +1514,7 @@
                 "open_issues": 24,
                 "owner": "marlimox",
                 "repo": "AloeStackView",
-                "stars": 2811,
+                "stars": 2812,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7941,
+                "stars": 7942,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T18:24:53Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-13T17:42:09Z",
+                "open_issues": 26,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3778,
@@ -2284,7 +2284,7 @@
                 "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3115,
+                "stars": 3116,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2350,7 +2350,7 @@
                 "open_issues": 73,
                 "owner": "MontanaFlossCo",
                 "repo": "Flint",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "appframework-library",
                   "apple",
@@ -2610,7 +2610,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24631,
+                "stars": 24630,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-13T03:10:15Z",
-                "open_issues": 308,
+                "last_commit": "2026-10-13T22:19:08Z",
+                "open_issues": 314,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2572,
+                "stars": 2574,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2894,7 +2894,7 @@
                 "open_issues": 7,
                 "owner": "line",
                 "repo": "line-sdk-ios-swift",
-                "stars": 876,
+                "stars": 877,
                 "topics": [
                   "line",
                   "line-login",
@@ -2969,7 +2969,7 @@
                 "open_issues": 9,
                 "owner": "JohnSundell",
                 "repo": "Splash",
-                "stars": 1871,
+                "stars": 1872,
                 "topics": [
                   "command-line-tool",
                   "swift",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:11:49.116Z",
+    "last_updated": "2026-10-14T01:24:52.019Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5264,
+      "stars": 5265,
       "topics": [
         "architecture",
         "ios",
