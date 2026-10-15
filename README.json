@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T17:42:09Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-14T16:11:08Z",
+                "open_issues": 25,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3778,
+                "stars": 3779,
                 "topics": [
                   "android",
                   "app",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-13T22:19:08Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-14T21:12:27Z",
+                "open_issues": 317,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2574,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:24:52.019Z",
+    "last_updated": "2026-10-15T00:55:28.939Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
