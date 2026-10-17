@@ -647,7 +647,7 @@
                 "open_issues": 0,
                 "owner": "BendingSpoons",
                 "repo": "katana-swift",
-                "stars": 2231,
+                "stars": 2230,
                 "topics": [
                   "ios",
                   "katana",
@@ -778,7 +778,7 @@
                 "id": 127492366,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T19:42:43Z",
+                "last_commit": "2026-10-16T02:51:16Z",
                 "open_issues": 0,
                 "owner": "SwiftRex",
                 "repo": "SwiftRex",
@@ -821,7 +821,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-05T11:10:36Z",
-                "open_issues": 7,
+                "open_issues": 4,
                 "owner": "spotify",
                 "repo": "Mobius.swift",
                 "stars": 583,
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13073,
+                "stars": 13072,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5745,
+                "stars": 5744,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7943,
+                "stars": 7941,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T16:33:17Z",
+                "last_commit": "2026-10-16T18:24:08Z",
                 "open_issues": 26,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2610,7 +2610,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24631,
+                "stars": 24628,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-16T00:27:38Z",
-                "open_issues": 316,
+                "last_commit": "2026-10-16T23:56:27Z",
+                "open_issues": 309,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2574,
@@ -2969,7 +2969,7 @@
                 "open_issues": 9,
                 "owner": "JohnSundell",
                 "repo": "Splash",
-                "stars": 1872,
+                "stars": 1873,
                 "topics": [
                   "command-line-tool",
                   "swift",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:46:57.547Z",
+    "last_updated": "2026-10-17T00:47:30.642Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
