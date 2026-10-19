@@ -778,8 +778,8 @@
                 "id": 127492366,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T02:51:16Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-18T19:48:21Z",
+                "open_issues": 1,
                 "owner": "SwiftRex",
                 "repo": "SwiftRex",
                 "stars": 620,
@@ -1319,7 +1319,7 @@
                 "open_issues": 24,
                 "owner": "johnpatrickmorgan",
                 "repo": "FlowStacks",
-                "stars": 970,
+                "stars": 969,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T05:21:17Z",
+                "last_commit": "2026-10-18T05:19:33Z",
                 "open_issues": 26,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3779,
+                "stars": 3780,
                 "topics": [
                   "android",
                   "app",
@@ -2284,7 +2284,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3116,
+                "stars": 3117,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2870,7 +2870,7 @@
                 "open_issues": 308,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2575,
+                "stars": 2576,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2969,7 +2969,7 @@
                 "open_issues": 9,
                 "owner": "JohnSundell",
                 "repo": "Splash",
-                "stars": 1873,
+                "stars": 1874,
                 "topics": [
                   "command-line-tool",
                   "swift",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:24:00.924Z",
+    "last_updated": "2026-10-19T00:31:53.112Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",

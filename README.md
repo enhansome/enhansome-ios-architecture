@@ -103,7 +103,7 @@ Model View ViewModel
 
 ### Repos
 
-* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,962 | 🐛 26 | 🌐 Swift | 📅 2026-10-06 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,971 | 🐛 26 | 🌐 Swift | 📅 2026-10-06 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 # Clean Architecture
 
@@ -147,7 +147,7 @@ Model View ViewModel
 * [Few.swift](https://github.com/joshaber/Few.swift) ⭐ 1,073 | 🐛 14 | 🌐 Swift | 📅 2017-01-23 Views as functions of their state.
 * [RxFeedback](https://github.com/kzaher/RxFeedback) ⭐ 1,017 | 🐛 18 | 🌐 Swift | 📅 2023-09-21 Architecture for RxSwift
 * [tempura-swift](https://github.com/BendingSpoons/tempura-swift) ⚠️ Archived A holistic approach to iOS development, inspired by Redux and MVVM
-* [SwiftRex](https://github.com/SwiftRex/SwiftRex) ⭐ 620 | 🐛 0 | 🌐 Swift | 📅 2026-10-16 Swift + Redux + (Combine|RxSwift|ReactiveSwift) -> SwiftRex
+* [SwiftRex](https://github.com/SwiftRex/SwiftRex) ⭐ 620 | 🐛 1 | 🌐 Swift | 📅 2026-10-18 Swift + Redux + (Combine|RxSwift|ReactiveSwift) -> SwiftRex
 * [Mobius.swift](https://github.com/spotify/Mobius.swift) ⭐ 583 | 🐛 4 | 🌐 Swift | 📅 2026-08-05 A functional reactive framework for managing state evolution and side-effects from Uber
 * [Dispatch](https://github.com/alexdrone/Dispatch) ⭐ 501 | 🐛 0 | 🌐 Swift | 📅 2021-10-31 Multi-store Flux implementation in Swift.
 * [tea-in-swift](https://github.com/chriseidhof/tea-in-swift) ⭐ 411 | 🐛 0 | 🌐 Swift | 📅 2017-09-19 The Elm Architecture in Swift
@@ -215,7 +215,7 @@ View Interactor Presenter
 
 ### Repos
 
-* [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) ⭐ 970 | 🐛 24 | 🌐 Swift | 📅 2025-10-10 FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
+* [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) ⭐ 969 | 🐛 24 | 🌐 Swift | 📅 2025-10-10 FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
 * [Stinsen](https://github.com/rundfunk47/stinsen) ⭐ 953 | 🐛 44 | 🌐 Swift | 📅 2026-03-28 Coordinators in SwiftUI. Simple, powerful and elegant.
 * [Harvest](https://github.com/inamiy/Harvest) ⚠️ Archived Harvest: Apple's Combine.framework + State Machine, inspired by Elm.
 
@@ -369,8 +369,8 @@ View Interactor Presenter
 ### Repos
 
 * [RIBs](https://github.com/uber/RIBs) ⭐ 7,941 | 🐛 119 | 🌐 Kotlin | 📅 2026-10-07 Uber's cross-platform mobile architecture framework.
-* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,779 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-17 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
-* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,116 | 🐛 34 | 🌐 Swift | 📅 2026-10-17 GitHub iOS client in RxSwift and MVVM-C clean architecture
+* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,780 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-18 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
+* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,117 | 🐛 34 | 🌐 Swift | 📅 2026-10-17 GitHub iOS client in RxSwift and MVVM-C clean architecture
 * [ios-architecture](https://github.com/tailec/ios-architecture) ⭐ 1,523 | 🐛 4 | 🌐 Swift | 📅 2022-05-16 A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 * [Flint](https://github.com/MontanaFlossCo/Flint) ⭐ 622 | 🐛 73 | 🌐 Swift | 📅 2023-08-01 The Flint framework for building apps on Apple platforms using Feature Driven Development
 * [Alicerce](https://github.com/Mindera/Alicerce) ⭐ 466 | 🐛 3 | 🌐 Swift | 📅 2025-07-31 A base for iOS Applications by Mindera
@@ -451,7 +451,7 @@ View Interactor Presenter
 
 ### SDK
 
-* [stripe-ios](https://github.com/stripe/stripe-ios) ⭐ 2,575 | 🐛 308 | 🌐 Swift | 📅 2026-10-17 Stripe iOS SDK
+* [stripe-ios](https://github.com/stripe/stripe-ios) ⭐ 2,576 | 🐛 308 | 🌐 Swift | 📅 2026-10-17 Stripe iOS SDK
 * [line-sdk-ios-swift](https://github.com/line/line-sdk-ios-swift) ⭐ 877 | 🐛 7 | 🌐 Swift | 📅 2026-07-24 Provides a modern way of implementing LINE APIs
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) ⚠️ Archived Swift framework for authenticating with the Spotify API
 * [BackchannelSDK-iOS](https://github.com/backchannel/BackchannelSDK-iOS) ⭐ 232 | 🐛 1 | 🌐 Objective-C | 📅 2016-11-29 The official iOS SDK for Backchannel
@@ -485,7 +485,7 @@ View Interactor Presenter
 
 ### Code
 
-* [Splash](https://github.com/JohnSundell/Splash) ⭐ 1,873 | 🐛 9 | 🌐 Swift | 📅 2024-05-27 A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
+* [Splash](https://github.com/JohnSundell/Splash) ⭐ 1,874 | 🐛 9 | 🌐 Swift | 📅 2024-05-27 A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
 
 ### Separation of Concerns
 
@@ -519,4 +519,4 @@ This project is released under the MIT license. See [LICENSE.md.](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
