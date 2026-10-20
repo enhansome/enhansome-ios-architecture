@@ -415,7 +415,7 @@
                 "open_issues": 25,
                 "owner": "Clean-Swift",
                 "repo": "CleanStore",
-                "stars": 1920,
+                "stars": 1919,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7580,
+                "stars": 7581,
                 "topics": [
                   "redux",
                   "reswift",
@@ -778,8 +778,8 @@
                 "id": 127492366,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T19:48:21Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-19T10:59:03Z",
+                "open_issues": 0,
                 "owner": "SwiftRex",
                 "repo": "SwiftRex",
                 "stars": 620,
@@ -1596,7 +1596,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T22:21:39Z",
-                "open_issues": 12,
+                "open_issues": 15,
                 "owner": "airbnb",
                 "repo": "epoxy-ios",
                 "stars": 1317,
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7941,
+                "stars": 7942,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T05:19:33Z",
+                "last_commit": "2026-10-19T16:43:51Z",
                 "open_issues": 26,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2284,7 +2284,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3117,
+                "stars": 3119,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2731,7 +2731,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1909,
+                "stars": 1907,
                 "topics": [
                   "coordinator",
                   "flow",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-17T18:12:57Z",
-                "open_issues": 308,
+                "last_commit": "2026-10-19T23:33:05Z",
+                "open_issues": 310,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2576,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:31:53.112Z",
+    "last_updated": "2026-10-20T01:17:48.603Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
