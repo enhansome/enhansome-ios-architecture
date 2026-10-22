@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2390,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -507,7 +507,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2147,
+                "stars": 2148,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -674,7 +674,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2147,
+                "stars": 2148,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -778,8 +778,8 @@
                 "id": 127492366,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T10:59:03Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-21T23:29:02Z",
+                "open_issues": 1,
                 "owner": "SwiftRex",
                 "repo": "SwiftRex",
                 "stars": 620,
@@ -1445,7 +1445,7 @@
                 "open_issues": 63,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13072,
+                "stars": 13074,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1514,7 +1514,7 @@
                 "open_issues": 24,
                 "owner": "marlimox",
                 "repo": "AloeStackView",
-                "stars": 2812,
+                "stars": 2811,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2219,7 +2219,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T17:08:48Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "uber",
                 "repo": "RIBs",
                 "stars": 7943,
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T15:14:21Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-22T00:52:30Z",
+                "open_issues": 28,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3780,
+                "stars": 3781,
                 "topics": [
                   "android",
                   "app",
@@ -2607,10 +2607,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-04T18:37:03Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24628,
+                "stars": 24627,
                 "topics": [
                   "functional",
                   "ios",
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2390,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-20T23:15:45Z",
-                "open_issues": 319,
+                "last_commit": "2026-10-21T21:24:30Z",
+                "open_issues": 312,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2576,
+                "stars": 2578,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2969,7 +2969,7 @@
                 "open_issues": 9,
                 "owner": "JohnSundell",
                 "repo": "Splash",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "command-line-tool",
                   "swift",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:59:36.249Z",
+    "last_updated": "2026-10-22T00:55:59.034Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
