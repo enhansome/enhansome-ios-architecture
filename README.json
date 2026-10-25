@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7580,
+                "stars": 7581,
                 "topics": [
                   "redux",
                   "reswift",
@@ -1445,7 +1445,7 @@
                 "open_issues": 64,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13075,
+                "stars": 13076,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T15:43:31Z",
+                "last_commit": "2026-10-24T05:20:26Z",
                 "open_issues": 30,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2610,7 +2610,7 @@
                 "open_issues": 19,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24628,
+                "stars": 24629,
                 "topics": [
                   "functional",
                   "ios",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:08:31.537Z",
+    "last_updated": "2026-10-25T00:33:17.438Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
