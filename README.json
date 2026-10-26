@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7581,
+                "stars": 7582,
                 "topics": [
                   "redux",
                   "reswift",
@@ -647,7 +647,7 @@
                 "open_issues": 0,
                 "owner": "BendingSpoons",
                 "repo": "katana-swift",
-                "stars": 2230,
+                "stars": 2229,
                 "topics": [
                   "ios",
                   "katana",
@@ -778,8 +778,8 @@
                 "id": 127492366,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T23:29:02Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-25T19:35:46Z",
+                "open_issues": 0,
                 "owner": "SwiftRex",
                 "repo": "SwiftRex",
                 "stars": 620,
@@ -1445,7 +1445,7 @@
                 "open_issues": 64,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13076,
+                "stars": 13078,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5743,
+                "stars": 5744,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1493,7 +1493,7 @@
                 "open_issues": 130,
                 "owner": "Jasonette",
                 "repo": "JASONETTE-iOS",
-                "stars": 5221,
+                "stars": 5222,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1595,8 +1595,8 @@
                 "id": 152341224,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:21:49Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-25T01:34:33Z",
+                "open_issues": 12,
                 "owner": "airbnb",
                 "repo": "epoxy-ios",
                 "stars": 1317,
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7943,
+                "stars": 7945,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T05:20:26Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-25T09:12:34Z",
+                "open_issues": 28,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3783,
@@ -2610,7 +2610,7 @@
                 "open_issues": 19,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24629,
+                "stars": 24630,
                 "topics": [
                   "functional",
                   "ios",
@@ -2867,7 +2867,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-24T00:13:24Z",
-                "open_issues": 306,
+                "open_issues": 307,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2578,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:33:17.438Z",
+    "last_updated": "2026-10-26T00:44:00.069Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5266,
+      "stars": 5267,
       "topics": [
         "architecture",
         "ios",
