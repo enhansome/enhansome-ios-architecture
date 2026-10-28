@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "FortechRomania",
                 "repo": "ios-mvp-clean-architecture",
-                "stars": 763,
+                "stars": 762,
                 "topics": [
                   "clean-architecture",
                   "ios",
@@ -237,7 +237,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2788,
+                "stars": 2787,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -619,7 +619,7 @@
                 "open_issues": 35,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
-                "stars": 2788,
+                "stars": 2787,
                 "topics": [
                   "architecture",
                   "reactive",
@@ -1220,7 +1220,7 @@
                 "open_issues": 3,
                 "owner": "infinum",
                 "repo": "ios-viper-xcode-templates",
-                "stars": 590,
+                "stars": 589,
                 "topics": [
                   "ios",
                   "open-source"
@@ -1442,7 +1442,7 @@
                 "language": "Objective-C",
                 "license": "MIT",
                 "last_commit": "2026-10-23T17:25:54Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "Instagram",
                 "repo": "IGListKit",
                 "stars": 13081,
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "facebook",
                 "repo": "componentkit",
-                "stars": 5744,
+                "stars": 5742,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1647,7 +1647,7 @@
                 "open_issues": 0,
                 "owner": "jessesquires",
                 "repo": "JSQDataSourcesKit",
-                "stars": 676,
+                "stars": 673,
                 "topics": [
                   "datasource",
                   "ios",
@@ -2061,7 +2061,7 @@
                 "open_issues": 0,
                 "owner": "rlopezdiez",
                 "repo": "RLDTableViewSuite",
-                "stars": 114,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T20:55:44Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-27T18:04:38Z",
+                "open_issues": 23,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3784,
+                "stars": 3786,
                 "topics": [
                   "android",
                   "app",
@@ -2284,7 +2284,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3118,
+                "stars": 3117,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2731,7 +2731,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1907,
+                "stars": 1906,
                 "topics": [
                   "coordinator",
                   "flow",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-26T23:44:59Z",
-                "open_issues": 304,
+                "last_commit": "2026-10-28T00:01:16Z",
+                "open_issues": 295,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2578,
@@ -2894,7 +2894,7 @@
                 "open_issues": 7,
                 "owner": "line",
                 "repo": "line-sdk-ios-swift",
-                "stars": 877,
+                "stars": 876,
                 "topics": [
                   "line",
                   "line-login",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:37:45.156Z",
+    "last_updated": "2026-10-28T01:44:50.595Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
