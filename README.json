@@ -265,7 +265,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2390,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7582,
+                "stars": 7581,
                 "topics": [
                   "redux",
                   "reswift",
@@ -1470,9 +1470,9 @@
                 "license": "NOASSERTION",
                 "last_commit": "2024-01-16T14:37:39Z",
                 "open_issues": 27,
-                "owner": "facebook",
+                "owner": "meta",
                 "repo": "componentkit",
-                "stars": 5742,
+                "stars": 5741,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1493,7 +1493,7 @@
                 "open_issues": 130,
                 "owner": "Jasonette",
                 "repo": "JASONETTE-iOS",
-                "stars": 5222,
+                "stars": 5221,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T18:04:38Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-28T20:24:43Z",
+                "open_issues": 21,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3786,
@@ -2698,7 +2698,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2390,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2758,7 +2758,7 @@
                 "open_issues": 6,
                 "owner": "hyperoslo",
                 "repo": "Compass",
-                "stars": 819,
+                "stars": 818,
                 "topics": [
                   "compass",
                   "ios",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-28T00:01:16Z",
-                "open_issues": 295,
+                "last_commit": "2026-10-29T00:11:07Z",
+                "open_issues": 293,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2578,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T01:44:50.595Z",
+    "last_updated": "2026-10-29T01:56:50.872Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
