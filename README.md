@@ -103,7 +103,7 @@ Model View ViewModel
 
 ### Repos
 
-* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,996 | 🐛 28 | 🌐 Swift | 📅 2026-10-27 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,999 | 🐛 28 | 🌐 Swift | 📅 2026-10-27 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 # Clean Architecture
 
@@ -243,7 +243,7 @@ View Interactor Presenter
 
 ### Repos
 
-* [IGListKit](https://github.com/instagram/IGListKit) ⭐ 13,081 | 🐛 65 | 🌐 Objective-C | 📅 2026-10-23 A data-driven UICollectionView framework for building fast and flexible lists.
+* [IGListKit](https://github.com/instagram/IGListKit) ⭐ 13,082 | 🐛 65 | 🌐 Objective-C | 📅 2026-10-23 A data-driven UICollectionView framework for building fast and flexible lists.
 * [ComponentKit](https://github.com/facebook/componentkit) ⭐ 5,741 | 🐛 27 | 🌐 Objective-C++ | 📅 2024-01-16 A React-inspired view framework for iOS
 * [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) ⭐ 5,221 | 🐛 130 | 🌐 JavaScript | 📅 2022-05-31 Native App over HTTP :star::star::rocket:
 * [AloeStackView](https://github.com/airbnb/AloeStackView) ⭐ 2,811 | 🐛 24 | 🌐 Swift | 📅 2021-08-11 A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout :star:
@@ -355,7 +355,7 @@ View Interactor Presenter
 
 ### View and Model
 
-* [UITableViewCell and Model](https://github.com/onmyway133/blog/issues/154) ⭐ 700 | 🐛 1,020 | 📅 2026-02-25
+* [UITableViewCell and Model](https://github.com/onmyway133/blog/issues/154) ⭐ 700 | 🐛 1,021 | 📅 2026-02-25
 * [View Descriptors](https://152percent.com/blog/2018/4/16/view-descriptors)
 * [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
 * [Building Better Views](https://www.fabisevi.ch/2019/12/26/building-better-views-part-i/)
@@ -368,8 +368,8 @@ View Interactor Presenter
 
 ### Repos
 
-* [RIBs](https://github.com/uber/RIBs) ⭐ 7,946 | 🐛 119 | 🌐 Kotlin | 📅 2026-10-22 Uber's cross-platform mobile architecture framework.
-* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,786 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-28 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
+* [RIBs](https://github.com/uber/RIBs) ⭐ 7,948 | 🐛 119 | 🌐 Kotlin | 📅 2026-10-22 Uber's cross-platform mobile architecture framework.
+* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,787 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-30 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
 * [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,117 | 🐛 34 | 🌐 Swift | 📅 2026-10-17 GitHub iOS client in RxSwift and MVVM-C clean architecture
 * [ios-architecture](https://github.com/tailec/ios-architecture) ⭐ 1,523 | 🐛 4 | 🌐 Swift | 📅 2022-05-16 A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 * [Flint](https://github.com/MontanaFlossCo/Flint) ⭐ 622 | 🐛 73 | 🌐 Swift | 📅 2023-08-01 The Flint framework for building apps on Apple platforms using Feature Driven Development
@@ -416,8 +416,8 @@ View Interactor Presenter
 * [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) ⭐ 2,391 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Powerful navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,906 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 * [Compass](https://github.com/hyperoslo/Compass) ⭐ 818 | 🐛 6 | 🌐 Swift | 📅 2020-11-19 Compass helps you setup a central navigation system for your application
-* [URL Routing with Compass](https://github.com/onmyway133/blog/issues/110) ⭐ 700 | 🐛 1,020 | 📅 2026-02-25 :star:
-* [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106) ⭐ 700 | 🐛 1,020 | 📅 2026-02-25
+* [URL Routing with Compass](https://github.com/onmyway133/blog/issues/110) ⭐ 700 | 🐛 1,021 | 📅 2026-02-25 :star:
+* [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106) ⭐ 700 | 🐛 1,021 | 📅 2026-02-25
 * [Weavy](https://github.com/twittemb/Weavy) ⚠️ Archived Navigation framework for iOS applications based on a weaving pattern
 * [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
 * [Deep links with no brainer](http://ilya.puchka.me/deeplinks-no-brainer/)
@@ -451,7 +451,7 @@ View Interactor Presenter
 
 ### SDK
 
-* [stripe-ios](https://github.com/stripe/stripe-ios) ⭐ 2,578 | 🐛 293 | 🌐 Swift | 📅 2026-10-29 Stripe iOS SDK
+* [stripe-ios](https://github.com/stripe/stripe-ios) ⭐ 2,577 | 🐛 299 | 🌐 Swift | 📅 2026-10-30 Stripe iOS SDK
 * [line-sdk-ios-swift](https://github.com/line/line-sdk-ios-swift) ⭐ 876 | 🐛 7 | 🌐 Swift | 📅 2026-07-24 Provides a modern way of implementing LINE APIs
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) ⚠️ Archived Swift framework for authenticating with the Spotify API
 * [BackchannelSDK-iOS](https://github.com/backchannel/BackchannelSDK-iOS) ⭐ 232 | 🐛 1 | 🌐 Objective-C | 📅 2016-11-29 The official iOS SDK for Backchannel
@@ -519,4 +519,4 @@ This project is released under the MIT license. See [LICENSE.md.](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
