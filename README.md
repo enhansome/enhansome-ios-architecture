@@ -76,7 +76,7 @@ Model View ViewModel
 
 ### Posts
 
-* [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) ⭐ 439 | 🐛 1 | 🌐 Swift | 📅 2017-08-16 MVVM with FRP Benchmark project
+* [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) ⭐ 440 | 🐛 1 | 🌐 Swift | 📅 2017-08-16 MVVM with FRP Benchmark project
 * [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
 * [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
 * [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
@@ -94,7 +94,7 @@ Model View ViewModel
 ### Repos
 
 * [TheReactiveArchitecture](https://github.com/devxoul/TheReactiveArchitecture) ⭐ 2,787 | 🐛 35 | 🌐 Swift | 📅 2026-05-07 The modern and reactive architecture for RxSwift application
-* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,391 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 iOS framework that helps you implement Model-View-ViewModel-Coordinator architecture.
+* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,392 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 iOS framework that helps you implement Model-View-ViewModel-Coordinator architecture.
 * [Coordinator-MVVM-Rx-Example](https://github.com/uptechteam/Coordinator-MVVM-Rx-Example) ⭐ 564 | 🐛 10 | 🌐 Swift | 📅 2020-03-07 Example of MVVM-C architecture implemented with RxSwift
 * [ModernMVVM](https://github.com/V8tr/ModernMVVM) ⭐ 470 | 🐛 7 | 🌐 Swift | 📅 2020-03-25 - A movie iOS app built with the MVVM architecture, Combine and SwiftUI frameworks
 * [kickstarter vm structure](https://github.com/kickstarter/native-docs/blob/master/vm-structure.md) ⭐ 83 | 🐛 0 | 📅 2022-05-13 Rx input and output
@@ -113,7 +113,7 @@ Model View ViewModel
 
 ### Repos
 
-* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,097 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift :rocket:
+* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,098 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift :rocket:
 * [CleanStore](https://github.com/Clean-Swift/CleanStore) ⭐ 1,919 | 🐛 25 | 🌐 Swift | 📅 2021-10-05 A sample iOS app built using the Clean Swift architecture
 * [Reminders](https://github.com/tiagomartinho/Reminders) ⭐ 315 | 🐛 0 | 🌐 Swift | 📅 2018-12-01 An iOS application written in Swift to demonstrate how to implement a Clean Architecture in iOS
 * [CleanSwiftArchitectureGenerator](https://github.com/emrcftci/CleanSwiftArchitectureGenerator) ⭐ 60 | 🐛 0 | 🌐 Shell | 📅 2020-05-19 A generator of Clean Swift Architecture files
@@ -122,7 +122,7 @@ Model View ViewModel
 
 ### Posts
 
-* [Render](https://github.com/alexdrone/Render) ⭐ 2,148 | 🐛 6 | 🌐 Swift | 📅 2019-12-13 Swift and UIKit a la React.
+* [Render](https://github.com/alexdrone/Render) ⭐ 2,147 | 🐛 6 | 🌐 Swift | 📅 2019-12-13 Swift and UIKit a la React.
 * [StateView](https://github.com/sahandnayebaziz/StateView) ⚠️ Archived Views that automatically update themselves.
 * [ziggurat](https://github.com/alanf/ziggurat) ⭐ 103 | 🐛 1 | 🌐 Swift | 📅 2017-03-20 App architecture with one-way data data flow and view models
 * [Unidirectional Data Flow in Swift: An Alternative to Massive View Controllers](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/)
@@ -140,10 +140,10 @@ Model View ViewModel
 
 ### Repos
 
-* [ReSwift](https://github.com/ReSwift/ReSwift) ⭐ 7,581 | 🐛 50 | 🌐 Swift | 📅 2024-04-22 Unidirectional Data Flow in Swift - Inspired by Redux :star:
+* [ReSwift](https://github.com/ReSwift/ReSwift) ⭐ 7,580 | 🐛 50 | 🌐 Swift | 📅 2024-04-22 Unidirectional Data Flow in Swift - Inspired by Redux :star:
 * [ReactorKit](https://github.com/ReactorKit/ReactorKit) ⭐ 2,787 | 🐛 35 | 🌐 Swift | 📅 2026-05-07 A framework for reactive and unidirectional Swift application architecture :rocket: :rocket:
 * [katana-swift](https://github.com/BendingSpoons/katana-swift) ⚠️ Archived Swift Apps in a Swoosh
-* [Renderer](https://github.com/alexdrone/Render) ⭐ 2,148 | 🐛 6 | 🌐 Swift | 📅 2019-12-13 Swift and UIKit a la React.
+* [Renderer](https://github.com/alexdrone/Render) ⭐ 2,147 | 🐛 6 | 🌐 Swift | 📅 2019-12-13 Swift and UIKit a la React.
 * [Few.swift](https://github.com/joshaber/Few.swift) ⭐ 1,073 | 🐛 14 | 🌐 Swift | 📅 2017-01-23 Views as functions of their state.
 * [RxFeedback](https://github.com/kzaher/RxFeedback) ⭐ 1,017 | 🐛 18 | 🌐 Swift | 📅 2023-09-21 Architecture for RxSwift
 * [tempura-swift](https://github.com/BendingSpoons/tempura-swift) ⚠️ Archived A holistic approach to iOS development, inspired by Redux and MVVM
@@ -215,7 +215,7 @@ View Interactor Presenter
 
 ### Repos
 
-* [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) ⭐ 969 | 🐛 24 | 🌐 Swift | 📅 2025-10-10 FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
+* [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) ⭐ 971 | 🐛 24 | 🌐 Swift | 📅 2025-10-10 FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
 * [Stinsen](https://github.com/rundfunk47/stinsen) ⭐ 953 | 🐛 44 | 🌐 Swift | 📅 2026-03-28 Coordinators in SwiftUI. Simple, powerful and elegant.
 * [Harvest](https://github.com/inamiy/Harvest) ⚠️ Archived Harvest: Apple's Combine.framework + State Machine, inspired by Elm.
 
@@ -243,14 +243,14 @@ View Interactor Presenter
 
 ### Repos
 
-* [IGListKit](https://github.com/instagram/IGListKit) ⭐ 13,082 | 🐛 65 | 🌐 Objective-C | 📅 2026-10-23 A data-driven UICollectionView framework for building fast and flexible lists.
-* [ComponentKit](https://github.com/facebook/componentkit) ⭐ 5,741 | 🐛 27 | 🌐 Objective-C++ | 📅 2024-01-16 A React-inspired view framework for iOS
+* [IGListKit](https://github.com/instagram/IGListKit) ⭐ 13,083 | 🐛 65 | 🌐 Objective-C | 📅 2026-10-23 A data-driven UICollectionView framework for building fast and flexible lists.
+* [ComponentKit](https://github.com/facebook/componentkit) ⭐ 5,739 | 🐛 27 | 🌐 Objective-C++ | 📅 2024-01-16 A React-inspired view framework for iOS
 * [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) ⭐ 5,221 | 🐛 130 | 🌐 JavaScript | 📅 2022-05-31 Native App over HTTP :star::star::rocket:
 * [AloeStackView](https://github.com/airbnb/AloeStackView) ⭐ 2,811 | 🐛 24 | 🌐 Swift | 📅 2021-08-11 A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout :star:
 * [HubFramework](https://github.com/spotify/HubFramework) ⚠️ Archived Spotify’s component-driven UI framework for iOS
-* [Carbon](https://github.com/ra1028/Carbon) ⭐ 1,355 | 🐛 10 | 🌐 Swift | 📅 2024-07-13 A declarative library for building component-based user interfaces in UITableView and UICollectionView
+* [Carbon](https://github.com/ra1028/Carbon) ⭐ 1,354 | 🐛 10 | 🌐 Swift | 📅 2024-07-13 A declarative library for building component-based user interfaces in UITableView and UICollectionView
 * [Epoxy](https://github.com/airbnb/epoxy-ios) ⭐ 1,317 | 🐛 12 | 🌐 Swift | 📅 2026-10-25 - Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift
-* [Static](https://github.com/venmo/Static) ⭐ 1,245 | 🐛 21 | 🌐 Swift | 📅 2021-10-22 Simple static table views for iOS in Swift.
+* [Static](https://github.com/venmo/Static) ⭐ 1,244 | 🐛 21 | 🌐 Swift | 📅 2021-10-22 Simple static table views for iOS in Swift.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit) ⚠️ Archived Type-safe, value-oriented, composable data source objects that keep your view controllers light
 * [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController) ⚠️ Archived A view controller that uses root views of child view controllers as views in a UIStackView.
 * [Mensa](https://github.com/jordanekay/Mensa) ⭐ 547 | 🐛 0 | 🌐 Swift | 📅 2019-07-09 Smart, modern table and collection views on iOS.
@@ -368,9 +368,9 @@ View Interactor Presenter
 
 ### Repos
 
-* [RIBs](https://github.com/uber/RIBs) ⭐ 7,948 | 🐛 119 | 🌐 Kotlin | 📅 2026-10-22 Uber's cross-platform mobile architecture framework.
-* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,787 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-30 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
-* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,117 | 🐛 34 | 🌐 Swift | 📅 2026-10-17 GitHub iOS client in RxSwift and MVVM-C clean architecture
+* [RIBs](https://github.com/uber/RIBs) ⭐ 7,949 | 🐛 119 | 🌐 Kotlin | 📅 2026-10-22 Uber's cross-platform mobile architecture framework.
+* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,788 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-30 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
+* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,118 | 🐛 34 | 🌐 Swift | 📅 2026-10-17 GitHub iOS client in RxSwift and MVVM-C clean architecture
 * [ios-architecture](https://github.com/tailec/ios-architecture) ⭐ 1,523 | 🐛 4 | 🌐 Swift | 📅 2022-05-16 A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 * [Flint](https://github.com/MontanaFlossCo/Flint) ⭐ 622 | 🐛 73 | 🌐 Swift | 📅 2023-08-01 The Flint framework for building apps on Apple platforms using Feature Driven Development
 * [Alicerce](https://github.com/Mindera/Alicerce) ⭐ 466 | 🐛 3 | 🌐 Swift | 📅 2025-07-31 A base for iOS Applications by Mindera
@@ -386,7 +386,7 @@ View Interactor Presenter
 
 ### Cache
 
-* [Cache](https://github.com/hyperoslo/Cache) ⭐ 3,139 | 🐛 12 | 🌐 Swift | 📅 2025-08-30 Nothing but Cache
+* [Cache](https://github.com/hyperoslo/Cache) ⭐ 3,140 | 🐛 12 | 🌐 Swift | 📅 2025-08-30 Nothing but Cache
 * [Pantry](https://github.com/nickoneill/Pantry) ⚠️ Archived
 * [CTPersistance](https://github.com/casatwy/CTPersistance) ⭐ 738 | 🐛 3 | 🌐 Objective-C | 📅 2021-02-24
 * [RocketData](https://github.com/linkedin/RocketData) ⭐ 646 | 🐛 13 | 🌐 Swift | 📅 2020-01-16
@@ -413,9 +413,9 @@ View Interactor Presenter
 
 ### Navigation/Coordinator/FlowController
 
-* [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) ⭐ 2,391 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Powerful navigation library for iOS based on the coordinator pattern
+* [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) ⭐ 2,392 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Powerful navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,906 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
-* [Compass](https://github.com/hyperoslo/Compass) ⭐ 818 | 🐛 6 | 🌐 Swift | 📅 2020-11-19 Compass helps you setup a central navigation system for your application
+* [Compass](https://github.com/hyperoslo/Compass) ⭐ 817 | 🐛 6 | 🌐 Swift | 📅 2020-11-19 Compass helps you setup a central navigation system for your application
 * [URL Routing with Compass](https://github.com/onmyway133/blog/issues/110) ⭐ 700 | 🐛 1,021 | 📅 2026-02-25 :star:
 * [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106) ⭐ 700 | 🐛 1,021 | 📅 2026-02-25
 * [Weavy](https://github.com/twittemb/Weavy) ⚠️ Archived Navigation framework for iOS applications based on a weaving pattern
@@ -519,4 +519,4 @@ This project is released under the MIT license. See [LICENSE.md.](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
