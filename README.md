@@ -103,7 +103,7 @@ Model View ViewModel
 
 ### Repos
 
-* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,999 | 🐛 28 | 🌐 Swift | 📅 2026-10-27 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,001 | 🐛 28 | 🌐 Swift | 📅 2026-10-27 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 # Clean Architecture
 
@@ -113,7 +113,7 @@ Model View ViewModel
 
 ### Repos
 
-* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,098 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift :rocket:
+* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,099 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift :rocket:
 * [CleanStore](https://github.com/Clean-Swift/CleanStore) ⭐ 1,919 | 🐛 25 | 🌐 Swift | 📅 2021-10-05 A sample iOS app built using the Clean Swift architecture
 * [Reminders](https://github.com/tiagomartinho/Reminders) ⭐ 315 | 🐛 0 | 🌐 Swift | 📅 2018-12-01 An iOS application written in Swift to demonstrate how to implement a Clean Architecture in iOS
 * [CleanSwiftArchitectureGenerator](https://github.com/emrcftci/CleanSwiftArchitectureGenerator) ⭐ 60 | 🐛 0 | 🌐 Shell | 📅 2020-05-19 A generator of Clean Swift Architecture files
@@ -243,7 +243,7 @@ View Interactor Presenter
 
 ### Repos
 
-* [IGListKit](https://github.com/instagram/IGListKit) ⭐ 13,083 | 🐛 65 | 🌐 Objective-C | 📅 2026-10-23 A data-driven UICollectionView framework for building fast and flexible lists.
+* [IGListKit](https://github.com/instagram/IGListKit) ⭐ 13,082 | 🐛 65 | 🌐 Objective-C | 📅 2026-10-23 A data-driven UICollectionView framework for building fast and flexible lists.
 * [ComponentKit](https://github.com/facebook/componentkit) ⭐ 5,739 | 🐛 27 | 🌐 Objective-C++ | 📅 2024-01-16 A React-inspired view framework for iOS
 * [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) ⭐ 5,221 | 🐛 130 | 🌐 JavaScript | 📅 2022-05-31 Native App over HTTP :star::star::rocket:
 * [AloeStackView](https://github.com/airbnb/AloeStackView) ⭐ 2,811 | 🐛 24 | 🌐 Swift | 📅 2021-08-11 A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout :star:
@@ -257,7 +257,7 @@ View Interactor Presenter
 * [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager) ⭐ 451 | 🐛 0 | 🌐 Swift | 📅 2024-07-16 Protocol-oriented UITableView management, powered by generics and associated types.
 * [Owl](https://github.com/malcommac/Owl) ⭐ 426 | 🐛 13 | 🌐 Swift | 📅 2021-03-06 A declarative type-safe framework for building fast and flexible lists with Tables & Collections
 * [Flow](https://github.com/malcommac/Flow) ⚠️ Archived A new declarative approach to UITableView
-* [StackScrollView](https://github.com/muukii/StackScrollView) ⭐ 417 | 🐛 2 | 🌐 Swift | 📅 2022-01-26 iOS Form UI Builder in Swift (powered by UICollectionView)
+* [StackScrollView](https://github.com/muukii/StackScrollView) ⭐ 416 | 🐛 2 | 🌐 Swift | 📅 2022-01-26 iOS Form UI Builder in Swift (powered by UICollectionView)
 * [Bento](https://github.com/Babylonpartners/Bento) ⭐ 370 | 🐛 7 | 🌐 Swift | 📅 2020-09-01 Swift library for building component-based interfaces on top of UITableView
 * [FunctionalTableData](https://github.com/Shopify/FunctionalTableData) ⭐ 370 | 🐛 13 | 🌐 Swift | 📅 2025-08-07 Declarative UITableViewDataSource implementation
 * [LiveCollections](https://github.com/scribd/LiveCollections) ⭐ 338 | 🐛 0 | 🌐 Swift | 📅 2024-05-11
@@ -369,7 +369,7 @@ View Interactor Presenter
 ### Repos
 
 * [RIBs](https://github.com/uber/RIBs) ⭐ 7,949 | 🐛 119 | 🌐 Kotlin | 📅 2026-10-22 Uber's cross-platform mobile architecture framework.
-* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,788 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-30 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
+* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,788 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-31 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
 * [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,118 | 🐛 34 | 🌐 Swift | 📅 2026-10-17 GitHub iOS client in RxSwift and MVVM-C clean architecture
 * [ios-architecture](https://github.com/tailec/ios-architecture) ⭐ 1,523 | 🐛 4 | 🌐 Swift | 📅 2022-05-16 A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 * [Flint](https://github.com/MontanaFlossCo/Flint) ⭐ 622 | 🐛 73 | 🌐 Swift | 📅 2023-08-01 The Flint framework for building apps on Apple platforms using Feature Driven Development
@@ -519,4 +519,4 @@ This project is released under the MIT license. See [LICENSE.md.](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

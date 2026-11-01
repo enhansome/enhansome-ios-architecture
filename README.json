@@ -386,7 +386,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4098,
+                "stars": 4099,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -1445,7 +1445,7 @@
                 "open_issues": 65,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13083,
+                "stars": 13082,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1799,7 +1799,7 @@
                 "open_issues": 2,
                 "owner": "FluidGroup",
                 "repo": "StackScrollView",
-                "stars": 417,
+                "stars": 416,
                 "topics": [
                   "form",
                   "uicollectionview",
@@ -2000,7 +2000,7 @@
                 "open_issues": 10,
                 "owner": "malcommac",
                 "repo": "ScrollingStackContainer",
-                "stars": 198,
+                "stars": 197,
                 "topics": [
                   "swift",
                   "swift-library",
@@ -2250,7 +2250,7 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T14:55:00Z",
+                "last_commit": "2026-10-31T05:17:00Z",
                 "open_issues": 24,
                 "owner": "artsy",
                 "repo": "eigen",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:51:19.756Z",
+    "last_updated": "2026-11-01T01:29:21.085Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
