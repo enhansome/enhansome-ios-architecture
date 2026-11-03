@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7580,
+                "stars": 7579,
                 "topics": [
                   "redux",
                   "reswift",
@@ -1844,7 +1844,7 @@
               "description": "Declarative UITableViewDataSource implementation",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Declarative UITableViewDataSource implementation",
                 "homepage": null,
                 "id": 98907583,
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T05:18:00Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-02T14:38:03Z",
+                "open_issues": 20,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3788,
+                "stars": 3791,
                 "topics": [
                   "android",
                   "app",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-30T22:41:40Z",
-                "open_issues": 299,
+                "last_commit": "2026-11-03T00:33:58Z",
+                "open_issues": 303,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2577,
@@ -2891,7 +2891,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-24T05:14:06Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "line",
                 "repo": "line-sdk-ios-swift",
                 "stars": 876,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:50:27.142Z",
+    "last_updated": "2026-11-03T03:43:23.491Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
