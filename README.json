@@ -1445,7 +1445,7 @@
                 "open_issues": 65,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13081,
+                "stars": 13080,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "meta",
                 "repo": "componentkit",
-                "stars": 5739,
+                "stars": 5737,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7949,
+                "stars": 7948,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T00:12:37Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-05T01:17:49Z",
+                "open_issues": 19,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3791,
+                "stars": 3790,
                 "topics": [
                   "android",
                   "app",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-04T00:45:22Z",
-                "open_issues": 309,
+                "last_commit": "2026-11-05T01:19:03Z",
+                "open_issues": 310,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2578,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:44:31.672Z",
+    "last_updated": "2026-11-05T02:49:57.714Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
