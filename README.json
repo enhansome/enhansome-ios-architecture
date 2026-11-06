@@ -1939,7 +1939,7 @@
                 "open_issues": 17,
                 "owner": "plangrid",
                 "repo": "ReactiveLists",
-                "stars": 254,
+                "stars": 255,
                 "topics": [
                   "collectionview",
                   "declarative-ui",
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7948,
+                "stars": 7949,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T01:17:49Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-05T21:56:43Z",
+                "open_issues": 20,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3790,
+                "stars": 3789,
                 "topics": [
                   "android",
                   "app",
@@ -2758,7 +2758,7 @@
                 "open_issues": 6,
                 "owner": "hyperoslo",
                 "repo": "Compass",
-                "stars": 817,
+                "stars": 816,
                 "topics": [
                   "compass",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-05T01:19:03Z",
-                "open_issues": 310,
+                "last_commit": "2026-11-06T01:13:27Z",
+                "open_issues": 315,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2578,
+                "stars": 2577,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:49:57.714Z",
+    "last_updated": "2026-11-06T02:50:38.911Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
