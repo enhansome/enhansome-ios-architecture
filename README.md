@@ -94,7 +94,7 @@ Model View ViewModel
 ### Repos
 
 * [TheReactiveArchitecture](https://github.com/devxoul/TheReactiveArchitecture) ⭐ 2,787 | 🐛 35 | 🌐 Swift | 📅 2026-05-07 The modern and reactive architecture for RxSwift application
-* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,391 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 iOS framework that helps you implement Model-View-ViewModel-Coordinator architecture.
+* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,392 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 iOS framework that helps you implement Model-View-ViewModel-Coordinator architecture.
 * [Coordinator-MVVM-Rx-Example](https://github.com/uptechteam/Coordinator-MVVM-Rx-Example) ⭐ 564 | 🐛 10 | 🌐 Swift | 📅 2020-03-07 Example of MVVM-C architecture implemented with RxSwift
 * [ModernMVVM](https://github.com/V8tr/ModernMVVM) ⭐ 469 | 🐛 7 | 🌐 Swift | 📅 2020-03-25 - A movie iOS app built with the MVVM architecture, Combine and SwiftUI frameworks
 * [kickstarter vm structure](https://github.com/kickstarter/native-docs/blob/master/vm-structure.md) ⭐ 83 | 🐛 0 | 📅 2022-05-13 Rx input and output
@@ -103,7 +103,7 @@ Model View ViewModel
 
 ### Repos
 
-* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,007 | 🐛 28 | 🌐 Swift | 📅 2026-11-05 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,008 | 🐛 28 | 🌐 Swift | 📅 2026-11-05 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 # Clean Architecture
 
@@ -245,7 +245,7 @@ View Interactor Presenter
 
 * [IGListKit](https://github.com/instagram/IGListKit) ⭐ 13,081 | 🐛 65 | 🌐 Objective-C | 📅 2026-11-03 A data-driven UICollectionView framework for building fast and flexible lists.
 * [ComponentKit](https://github.com/facebook/componentkit) ⭐ 5,736 | 🐛 27 | 🌐 Objective-C++ | 📅 2024-01-16 A React-inspired view framework for iOS
-* [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) ⭐ 5,221 | 🐛 130 | 🌐 JavaScript | 📅 2022-05-31 Native App over HTTP :star::star::rocket:
+* [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) ⭐ 5,220 | 🐛 130 | 🌐 JavaScript | 📅 2022-05-31 Native App over HTTP :star::star::rocket:
 * [AloeStackView](https://github.com/airbnb/AloeStackView) ⭐ 2,810 | 🐛 24 | 🌐 Swift | 📅 2021-08-11 A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout :star:
 * [HubFramework](https://github.com/spotify/HubFramework) ⚠️ Archived Spotify’s component-driven UI framework for iOS
 * [Carbon](https://github.com/ra1028/Carbon) ⭐ 1,355 | 🐛 10 | 🌐 Swift | 📅 2024-07-13 A declarative library for building component-based user interfaces in UITableView and UICollectionView
@@ -413,7 +413,7 @@ View Interactor Presenter
 
 ### Navigation/Coordinator/FlowController
 
-* [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) ⭐ 2,391 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Powerful navigation library for iOS based on the coordinator pattern
+* [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) ⭐ 2,392 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Powerful navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,906 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 * [Compass](https://github.com/hyperoslo/Compass) ⭐ 815 | 🐛 6 | 🌐 Swift | 📅 2020-11-19 Compass helps you setup a central navigation system for your application
 * [URL Routing with Compass](https://github.com/onmyway133/blog/issues/110) ⭐ 700 | 🐛 1,022 | 📅 2026-11-07 :star:
@@ -519,4 +519,4 @@ This project is released under the MIT license. See [LICENSE.md.](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
