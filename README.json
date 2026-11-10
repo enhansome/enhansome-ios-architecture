@@ -1319,7 +1319,7 @@
                 "open_issues": 24,
                 "owner": "johnpatrickmorgan",
                 "repo": "FlowStacks",
-                "stars": 971,
+                "stars": 972,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1445,7 +1445,7 @@
                 "open_issues": 65,
                 "owner": "Instagram",
                 "repo": "IGListKit",
-                "stars": 13081,
+                "stars": 13083,
                 "topics": [
                   "diffing",
                   "instagram",
@@ -1562,7 +1562,7 @@
                 "open_issues": 10,
                 "owner": "ra1028",
                 "repo": "Carbon",
-                "stars": 1355,
+                "stars": 1356,
                 "topics": [
                   "component",
                   "datasource",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T20:45:19Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-10T00:43:27Z",
+                "open_issues": 19,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3789,
@@ -2610,7 +2610,7 @@
                 "open_issues": 19,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24628,
+                "stars": 24626,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-07T01:25:41Z",
-                "open_issues": 308,
+                "last_commit": "2026-11-10T02:46:11Z",
+                "open_issues": 311,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2578,
+                "stars": 2579,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:59:41.144Z",
+    "last_updated": "2026-11-10T04:20:38.554Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5267,
+      "stars": 5268,
       "topics": [
         "architecture",
         "ios",
