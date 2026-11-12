@@ -386,7 +386,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4099,
+                "stars": 4098,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "meta",
                 "repo": "componentkit",
-                "stars": 5736,
+                "stars": 5737,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7954,
+                "stars": 7955,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T16:05:42Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-11T23:02:40Z",
+                "open_issues": 15,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3789,
+                "stars": 3790,
                 "topics": [
                   "android",
                   "app",
@@ -2284,7 +2284,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3118,
+                "stars": 3119,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-11T00:58:09Z",
-                "open_issues": 315,
+                "last_commit": "2026-11-12T02:40:28Z",
+                "open_issues": 314,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2579,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:16:21.693Z",
+    "last_updated": "2026-11-12T03:23:40.436Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5268,
+      "stars": 5269,
       "topics": [
         "architecture",
         "ios",
