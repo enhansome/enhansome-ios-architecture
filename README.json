@@ -593,7 +593,7 @@
                 "open_issues": 50,
                 "owner": "ReSwift",
                 "repo": "ReSwift",
-                "stars": 7580,
+                "stars": 7581,
                 "topics": [
                   "redux",
                   "reswift",
@@ -955,7 +955,7 @@
                 "open_issues": 0,
                 "owner": "DevYeom",
                 "repo": "OneWay",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "architecture",
                   "state-management",
@@ -1220,7 +1220,7 @@
                 "open_issues": 3,
                 "owner": "infinum",
                 "repo": "ios-viper-xcode-templates",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "ios",
                   "open-source"
@@ -1883,7 +1883,7 @@
                 "open_issues": 0,
                 "owner": "scribd",
                 "repo": "LiveCollections",
-                "stars": 338,
+                "stars": 339,
                 "topics": [
                   "animation",
                   "animations",
@@ -2222,7 +2222,7 @@
                 "open_issues": 119,
                 "owner": "uber",
                 "repo": "RIBs",
-                "stars": 7954,
+                "stars": 7952,
                 "topics": [
                   "android",
                   "architectural-patterns",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T22:46:51Z",
+                "last_commit": "2026-11-14T03:07:03Z",
                 "open_issues": 13,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3790,
+                "stars": 3789,
                 "topics": [
                   "android",
                   "app",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-14T01:34:34Z",
-                "open_issues": 321,
+                "last_commit": "2026-11-14T18:09:02Z",
+                "open_issues": 322,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2579,
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:41:43.344Z",
+    "last_updated": "2026-11-15T02:08:59.579Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
