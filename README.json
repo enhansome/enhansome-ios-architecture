@@ -1472,7 +1472,7 @@
                 "open_issues": 27,
                 "owner": "meta",
                 "repo": "componentkit",
-                "stars": 5737,
+                "stars": 5738,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T03:07:03Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-17T03:53:11Z",
+                "open_issues": 14,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3789,
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-14T18:09:02Z",
-                "open_issues": 322,
+                "last_commit": "2026-11-17T00:25:36Z",
+                "open_issues": 327,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2579,
+                "stars": 2580,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:24:14.257Z",
+    "last_updated": "2026-11-17T04:47:49.903Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5270,
+      "stars": 5271,
       "topics": [
         "architecture",
         "ios",
