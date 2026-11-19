@@ -507,7 +507,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2147,
+                "stars": 2148,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -674,7 +674,7 @@
                 "open_issues": 6,
                 "owner": "alexdrone",
                 "repo": "Render",
-                "stars": 2147,
+                "stars": 2148,
                 "topics": [
                   "elm-architecture",
                   "ios",
@@ -883,7 +883,7 @@
                 "open_issues": 0,
                 "owner": "chriseidhof",
                 "repo": "tea-in-swift",
-                "stars": 411,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1376,7 +1376,7 @@
                 "open_issues": 3,
                 "owner": "inamiy",
                 "repo": "Harvest",
-                "stars": 379,
+                "stars": 378,
                 "topics": [
                   "automaton",
                   "combine-framework",
@@ -1441,7 +1441,7 @@
                 "id": 67588512,
                 "language": "Objective-C",
                 "license": "MIT",
-                "last_commit": "2026-11-17T16:10:08Z",
+                "last_commit": "2026-11-19T03:39:34Z",
                 "open_issues": 65,
                 "owner": "Instagram",
                 "repo": "IGListKit",
@@ -1562,7 +1562,7 @@
                 "open_issues": 10,
                 "owner": "ra1028",
                 "repo": "Carbon",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": [
                   "component",
                   "datasource",
@@ -1599,7 +1599,7 @@
                 "open_issues": 13,
                 "owner": "airbnb",
                 "repo": "epoxy-ios",
-                "stars": 1317,
+                "stars": 1318,
                 "topics": [
                   "ios",
                   "swift",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T17:13:33Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-19T03:47:34Z",
+                "open_issues": 19,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3789,
@@ -2610,7 +2610,7 @@
                 "open_issues": 20,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24630,
+                "stars": 24629,
                 "topics": [
                   "functional",
                   "ios",
@@ -2731,7 +2731,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1906,
+                "stars": 1905,
                 "topics": [
                   "coordinator",
                   "flow",
@@ -2758,7 +2758,7 @@
                 "open_issues": 6,
                 "owner": "hyperoslo",
                 "repo": "Compass",
-                "stars": 815,
+                "stars": 814,
                 "topics": [
                   "compass",
                   "ios",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-18T03:28:42Z",
-                "open_issues": 342,
+                "last_commit": "2026-11-19T01:52:58Z",
+                "open_issues": 346,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2579,
@@ -2890,8 +2890,8 @@
                 "id": 154433729,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T01:23:44Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-19T03:47:58Z",
+                "open_issues": 8,
                 "owner": "line",
                 "repo": "line-sdk-ios-swift",
                 "stars": 876,
@@ -2969,7 +2969,7 @@
                 "open_issues": 9,
                 "owner": "JohnSundell",
                 "repo": "Splash",
-                "stars": 1877,
+                "stars": 1878,
                 "topics": [
                   "command-line-tool",
                   "swift",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:53:26.046Z",
+    "last_updated": "2026-11-19T03:51:37.753Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
