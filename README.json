@@ -647,7 +647,7 @@
                 "open_issues": 0,
                 "owner": "BendingSpoons",
                 "repo": "katana-swift",
-                "stars": 2228,
+                "stars": 2227,
                 "topics": [
                   "ios",
                   "katana",
@@ -1220,7 +1220,7 @@
                 "open_issues": 3,
                 "owner": "infinum",
                 "repo": "ios-viper-xcode-templates",
-                "stars": 590,
+                "stars": 588,
                 "topics": [
                   "ios",
                   "open-source"
@@ -1441,7 +1441,7 @@
                 "id": 67588512,
                 "language": "Objective-C",
                 "license": "MIT",
-                "last_commit": "2026-11-19T03:39:34Z",
+                "last_commit": "2026-11-19T22:32:20Z",
                 "open_issues": 65,
                 "owner": "Instagram",
                 "repo": "IGListKit",
@@ -1595,8 +1595,8 @@
                 "id": 152341224,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T01:34:33Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-19T18:29:55Z",
+                "open_issues": 12,
                 "owner": "airbnb",
                 "repo": "epoxy-ios",
                 "stars": 1318,
@@ -1672,7 +1672,7 @@
                 "open_issues": 0,
                 "owner": "justeat",
                 "repo": "ScrollingStackViewController",
-                "stars": 645,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1883,7 +1883,7 @@
                 "open_issues": 0,
                 "owner": "scribd",
                 "repo": "LiveCollections",
-                "stars": 339,
+                "stars": 338,
                 "topics": [
                   "animation",
                   "animations",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T03:47:34Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-19T19:02:08Z",
+                "open_issues": 14,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3789,
+                "stars": 3788,
                 "topics": [
                   "android",
                   "app",
@@ -2284,7 +2284,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3118,
+                "stars": 3116,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2610,7 +2610,7 @@
                 "open_issues": 20,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24629,
+                "stars": 24625,
                 "topics": [
                   "functional",
                   "ios",
@@ -2866,11 +2866,11 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-19T01:52:58Z",
-                "open_issues": 346,
+                "last_commit": "2026-11-20T00:10:32Z",
+                "open_issues": 339,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2579,
+                "stars": 2578,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -2969,7 +2969,7 @@
                 "open_issues": 9,
                 "owner": "JohnSundell",
                 "repo": "Splash",
-                "stars": 1878,
+                "stars": 1877,
                 "topics": [
                   "command-line-tool",
                   "swift",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:51:37.753Z",
+    "last_updated": "2026-11-20T03:44:12.358Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
@@ -3001,7 +3001,7 @@
       "open_issues": 2,
       "owner": "onmyway133",
       "repo": "awesome-ios-architecture",
-      "stars": 5271,
+      "stars": 5270,
       "topics": [
         "architecture",
         "ios",
