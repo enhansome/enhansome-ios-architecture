@@ -727,7 +727,7 @@
                 "open_issues": 18,
                 "owner": "NoTests",
                 "repo": "RxFeedback.swift",
-                "stars": 1017,
+                "stars": 1016,
                 "topics": [
                   "architecture",
                   "feedback-loop",
@@ -779,7 +779,7 @@
                 "language": "Swift",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-25T19:35:46Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "SwiftRex",
                 "repo": "SwiftRex",
                 "stars": 620,
@@ -851,7 +851,7 @@
                 "open_issues": 0,
                 "owner": "alexdrone",
                 "repo": "Store",
-                "stars": 502,
+                "stars": 501,
                 "topics": [
                   "binding",
                   "combine",
@@ -2250,11 +2250,11 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T19:02:08Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-20T20:33:58Z",
+                "open_issues": 20,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3788,
+                "stars": 3789,
                 "topics": [
                   "android",
                   "app",
@@ -2350,7 +2350,7 @@
                 "open_issues": 73,
                 "owner": "MontanaFlossCo",
                 "repo": "Flint",
-                "stars": 622,
+                "stars": 621,
                 "topics": [
                   "appframework-library",
                   "apple",
@@ -2866,7 +2866,7 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-20T00:10:32Z",
+                "last_commit": "2026-11-21T02:55:13Z",
                 "open_issues": 339,
                 "owner": "stripe",
                 "repo": "stripe-ios",
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T03:44:12.358Z",
+    "last_updated": "2026-11-21T03:30:11.522Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
