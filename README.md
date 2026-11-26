@@ -103,7 +103,7 @@ Model View ViewModel
 
 ### Repos
 
-* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,041 | 🐛 30 | 🌐 Swift | 📅 2026-11-05 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,044 | 🐛 30 | 🌐 Swift | 📅 2026-11-05 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 # Clean Architecture
 
@@ -250,7 +250,7 @@ View Interactor Presenter
 * [HubFramework](https://github.com/spotify/HubFramework) ⚠️ Archived Spotify’s component-driven UI framework for iOS
 * [Carbon](https://github.com/ra1028/Carbon) ⭐ 1,355 | 🐛 10 | 🌐 Swift | 📅 2024-07-13 A declarative library for building component-based user interfaces in UITableView and UICollectionView
 * [Epoxy](https://github.com/airbnb/epoxy-ios) ⭐ 1,318 | 🐛 13 | 🌐 Swift | 📅 2026-11-19 - Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift
-* [Static](https://github.com/venmo/Static) ⭐ 1,244 | 🐛 21 | 🌐 Swift | 📅 2021-10-22 Simple static table views for iOS in Swift.
+* [Static](https://github.com/venmo/Static) ⭐ 1,244 | 🐛 20 | 🌐 Swift | 📅 2021-10-22 Simple static table views for iOS in Swift.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit) ⚠️ Archived Type-safe, value-oriented, composable data source objects that keep your view controllers light
 * [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController) ⚠️ Archived A view controller that uses root views of child view controllers as views in a UIStackView.
 * [Mensa](https://github.com/jordanekay/Mensa) ⭐ 547 | 🐛 0 | 🌐 Swift | 📅 2019-07-09 Smart, modern table and collection views on iOS.
@@ -368,8 +368,8 @@ View Interactor Presenter
 
 ### Repos
 
-* [RIBs](https://github.com/uber/RIBs) ⭐ 7,952 | 🐛 119 | 🌐 Kotlin | 📅 2026-10-22 Uber's cross-platform mobile architecture framework.
-* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,791 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-24 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
+* [RIBs](https://github.com/uber/RIBs) ⭐ 7,953 | 🐛 119 | 🌐 Kotlin | 📅 2026-10-22 Uber's cross-platform mobile architecture framework.
+* [eigen](https://github.com/artsy/eigen/blob/master/docs/overview.md) ⭐ 3,792 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-25 The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
 * [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,115 | 🐛 34 | 🌐 Swift | 📅 2026-11-13 GitHub iOS client in RxSwift and MVVM-C clean architecture
 * [ios-architecture](https://github.com/tailec/ios-architecture) ⭐ 1,522 | 🐛 4 | 🌐 Swift | 📅 2022-05-16 A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 * [Flint](https://github.com/MontanaFlossCo/Flint) ⭐ 621 | 🐛 73 | 🌐 Swift | 📅 2023-08-01 The Flint framework for building apps on Apple platforms using Feature Driven Development
@@ -519,4 +519,4 @@ This project is released under the MIT license. See [LICENSE.md.](https://github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
