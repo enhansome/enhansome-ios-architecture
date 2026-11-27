@@ -233,8 +233,8 @@
                 "id": 78230922,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-05-07T13:17:41Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-26T14:45:26Z",
+                "open_issues": 36,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
                 "stars": 2785,
@@ -615,8 +615,8 @@
                 "id": 78230922,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-05-07T13:17:41Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-26T14:45:26Z",
+                "open_issues": 36,
                 "owner": "ReactorKit",
                 "repo": "ReactorKit",
                 "stars": 2785,
@@ -1340,7 +1340,7 @@
                 "open_issues": 44,
                 "owner": "rundfunk47",
                 "repo": "stinsen",
-                "stars": 953,
+                "stars": 952,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -1493,7 +1493,7 @@
                 "open_issues": 130,
                 "owner": "Jasonette",
                 "repo": "JASONETTE-iOS",
-                "stars": 5221,
+                "stars": 5220,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -1599,7 +1599,7 @@
                 "open_issues": 13,
                 "owner": "airbnb",
                 "repo": "epoxy-ios",
-                "stars": 1318,
+                "stars": 1319,
                 "topics": [
                   "ios",
                   "swift",
@@ -2250,8 +2250,8 @@
                 "id": 29702213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T17:47:13Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-26T17:37:14Z",
+                "open_issues": 11,
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3792,
@@ -2284,7 +2284,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3115,
+                "stars": 3116,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2866,8 +2866,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-25T21:43:22Z",
-                "open_issues": 337,
+                "last_commit": "2026-11-26T16:28:19Z",
+                "open_issues": 338,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2579,
@@ -2894,7 +2894,7 @@
                 "open_issues": 8,
                 "owner": "line",
                 "repo": "line-sdk-ios-swift",
-                "stars": 876,
+                "stars": 875,
                 "topics": [
                   "line",
                   "line-login",
@@ -2920,7 +2920,7 @@
                 "open_issues": 12,
                 "owner": "spotify",
                 "repo": "SpotifyLogin",
-                "stars": 352,
+                "stars": 353,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:06.873Z"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:25:52.765Z",
+    "last_updated": "2026-11-27T04:34:15.234Z",
     "original_repository_info": {
       "archived": false,
       "description": ":japanese_castle: Better ways to structure iOS apps",
